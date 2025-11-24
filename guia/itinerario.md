@@ -34,6 +34,7 @@
 ## 📅 Índice de Días
 
 - Día 1: Llegada y Dotonbori (5 Mar)
+
 ## 📅 Índice de Días (resumen)
 
 - Día 1: Llegada y Dotonbori (5 Mar)
@@ -79,25 +80,30 @@ Transporte: Metro Midosuji Line → Namba. Tiempo estimado: 2–4 h de actividad
 Tips: Prioriza descansar si el vuelo fue largo. Si todavía tienes energía, un paseo corto por Namba es ideal.
 
 Horarios sugeridos (ejemplo):
+
 - 10:30 – Llegada al hotel / consignas (si la hora de llegada lo permite)
 - 12:30 – Almuerzo ligero en Kuromon o alrededores
 - 15:00 – Check-in y descanso breve
 - 18:30 – Paseo por Dotonbori y cena
 
 Transporte paso a paso:
+
 - Desde Kansai Airport: Nankai Airport Express o JR Kansai Airport Rapid → ten en cuenta la diferencia de precio/tiempo
 - Desde la estación de Osaka: Metro Midosuji Line → Namba (1–2 paradas según ubicación del hotel)
 
 Coste aproximado del día (por persona): ¥2,500–5,000 (transfer aeropuerto + comidas ligeras)
 
 Restaurantes recomendados:
+
 - Dotonbori Konamon Museum (takoyaki) — experiencia y fotos; buen primer contacto con la comida callejera.
 - Mizuno (okonomiyaki) — local popular, suele tener cola; pedir con calma para compartir.
 
 Alternativa por mal tiempo:
+
 - Visitar el acuario Kaiyukan o pasar la tarde en centros comerciales climatizados como Namba Parks.
 
 Consejos extra:
+
 - Cambia algo de efectivo al llegar, los puestos callejeros y pequeños restaurantes a veces no aceptan tarjeta.
 
 ---
@@ -113,6 +119,7 @@ Transporte: JR Yumesaki Line → Universal City Station. Tiempo estimado: jornad
 Tips: Reserva entradas online, lleva capa/chaqueta si hace frío por la mañana y lleva batería extra para el móvil — las fotos vuelan.
 
 Horarios sugeridos:
+
 - 07:30 – Salida del hotel hacia Universal City Station
 - 08:30 – Entrada al parque (recomendada apertura anticipada)
 - 12:30 – Almuerzo dentro del parque
@@ -120,18 +127,22 @@ Horarios sugeridos:
 - 19:00 – Regreso al hotel
 
 Transporte paso a paso:
+
 - Desde Namba: tomar la JR Line hacia Osaka Station y cambiar a JR Yumesaki Line en Nishikujo para llegar a Universal City Station.
 
 Coste aproximado del día (por persona): ¥8,500–12,000 (entrada + comidas + extras/Express Pass opcional)
 
 Restaurantes / opciones dentro del parque:
+
 - Three Broomsticks (zona Harry Potter) — comida temática, buen ambiente.
 - Mel’s Drive-In — opción rápida y familiar.
 
 Alternativa por mal tiempo:
+
 - USJ tiene muchas atracciones cubiertas; en caso de lluvia intensa, priorizar shows y zonas interiores.
 
 Consejos extra:
+
 - Lleva una mochila pequeña con impermeable ligero; si hace frío, las colas pueden ser largas y al aire libre.
 
 ---
@@ -149,6 +160,7 @@ Transporte: Metro y caminatas locales. Tiempo estimado: 6–8 h.
 Tips: Compra entradas anticipadas para el castillo si quieres entrar al interior; cuidar las horas punta en Umeda.
 
 Horarios sugeridos:
+
 - 08:30 – Desayuno y salida hacia Castillo de Osaka
 - 09:30 – Visita al Castillo (2 h)
 - 12:30 – Almuerzo en Umeda
@@ -156,19 +168,23 @@ Horarios sugeridos:
 - 18:00 – Shinsekai y cena (kushikatsu)
 
 Transporte paso a paso:
+
 - Metro Tanimachi Line o Chuo Line según ubicación del hotel → Morinomiya / Temmabashi para el castillo
 - Desde Umeda: caminar o tomar la linea de metro Midosuji para Shinsekai (Namba)
 
 Coste aproximado del día (por persona): ¥3,000–6,000 (entradas + comidas)
 
 Restaurantes recomendados:
+
 - Kushikatsu Daruma (Shinsekai) — clásico para kushikatsu; informal y auténtico.
 - Takoyaki Juhachiban — para un snack típico mientras paseas.
 
 Alternativa por mal tiempo:
+
 - Visitar el Museo de Ciencia de Osaka o el edificio Umeda Sky Building (zonas interiores).
 
 Consejos extra:
+
 - Llega temprano al castillo para evitar grupos turísticos y aprovechar luz para fotos.
 
 ---
@@ -184,6 +200,7 @@ Transporte: JR Yamatoji Line → Nara Station. Tiempo estimado: 6–8 h (incluye
 Tips: Lleva monedas para comprar senbei; respeta a los ciervos (no los provoques) y usa calzado cómodo.
 
 Horarios sugeridos:
+
 - 08:00 – Salida hacia Nara
 - 09:30 – Llegada y visita al Todai-ji
 - 12:00 – Almuerzo en Nara-machi o cerca del parque
@@ -191,51 +208,96 @@ Horarios sugeridos:
 - 17:00 – Regreso a Osaka
 
 Transporte paso a paso:
+
 - JR Yamatoji Line desde Osaka Station / Tennoji → Nara Station (aprox. 45 min)
 
 Coste aproximado del día (por persona): ¥2,000–4,000 (tren + entradas + comidas)
 
 Restaurantes recomendados:
+
 - Nakatanidou (mochi) — famoso por su mochi fresco y show de preparación.
 - Kasuga Ninai-jaya — té y dulces tradicionales cerca de Kasuga Taisha.
 
 Alternativa por mal tiempo:
+
 - Visitar museos locales (Nara National Museum) o disfrutar del ocio gastronómico en la estación.
 
 Consejos extra:
+
 - Evita tocar a los ciervos en la cara; si uno se aproxima, mantén la calma y entrega la galleta con cuidado.
 
 ---
 
-### Día 5 — Domingo 9 Marzo: Mercado Kuromon + traslado a Kyoto — Sabores y cambio de ciudad
 
-Mañana: Paseo por Kuromon Ichiba — desayunos de mercado, sushi fresco y snacks locales.
+### Día 5 — Domingo 9 Marzo: Mercado Kuromon + Osaka friki + traslado a Kyoto por la tarde — Sabores y ocio
 
-Mediodía: Check-out y traslado a Kyoto. Aprovecha para dejar maleta en el hotel y dar un paseo por la estación de Kyoto y sus tiendas.
+Mañana: Paseo por Kuromon Ichiba — desayunos de mercado, sushi fresco y snacks locales. Aprovecha la mañana para rematar compras y probar especialidades.
 
-Transporte: Tren JR/Hankyu a Kyoto (~30 min). Tiempo estimado: 4–6 h.
+Mediodía/tarde (Osaka friki): Dedica la tarde a la Osaka otaku — visita Den Den Town (Nipponbashi), el Pokémon Center y tiendas retro/coleccionismo. Es un buen contraste con la mañana de mercado.
 
-Tips: Compra bentō o snacks en Kuromon para el viaje. Revisa el hotel en Kyoto para early check-in (si es posible).
+Traslado a Kyoto: Salida tranquila hacia Kyoto por la tarde (ej. después de las 18:00) para hacer check-in, cenar y descansar.
+
+Transporte: Tren JR/Hankyu a Kyoto (~30 min). Tiempo estimado: jornada completa (6–9 h según tiempo en tiendas y mercado).
+
+Tips: Compra bentō o snacks en Kuromon para llevar; si queréis cenar en Kyoto, pensad en llegar con tiempo suficiente para check-in.
 
 Horarios sugeridos:
+- 08:30 – Desayuno en Kuromon Ichiba
+- 10:30 – Paseo por Kuromon y compras
+- 12:30 – Almuerzo junto al canal o en Namba
+- 14:00 – Den Den Town (Nipponbashi) y tiendas frikis
+- 16:30 – Pokémon Center Osaka (en Umeda/HEP o location según cierre y fecha) y tiendas retro
+- 18:30 – Tren a Kyoto y check-in
+
+Transporte paso a paso:
+- Desde Namba: caminar o metro a Nipponbashi (Den Den Town) o tomar la línea Kintetsu/Osaka Metro según ubicación
+- Desde la zona de tiendas: volver a Osaka Station / Umeda y tomar tren rápido a Kyoto (JR Special Rapid o Hankyu según preferencia)
+
+Coste aproximado del día (por persona): ¥3,000–6,000 (compras + comidas + transporte)
+
+Restaurantes recomendados:
+- Kuromon Market stalls — para sushi fresco y snacks durante la mañana.
+- Kushikatsu Daruma (Namba) — cena tradicional antes de partir si queréis algo típico de Osaka.
+
+Alternativa por mal tiempo:
+- Si llueve, concentraos en centros comerciales cubiertos (Namba Parks, Grand Front Osaka) y en tiendas interiores de Den Den Town.
+
+Consejos extra:
+- Si buscáis un Pokémon Center concreto, comprobad la ubicación actual (puede haber más de uno y cambios temporales); los centros suelen tener merchandising exclusivo.
+
+### Tiendas frikis recomendadas en Osaka
+
+- Den Den Town (Nipponbashi): epicentro otaku de Osaka — tiendas de figuras, manga, electrónica y gashapon. Ideal para rastrear piezas difíciles o ver merchandising local.
+- Pokémon Center Osaka: tienda oficial con merchandising exclusivo (peluches, tarjetas, ropa). Suele haber una en la zona de Umeda o dentro de centros comerciales grandes; confirmar ubicación y horario.
+- Super Potato / tiendas retro: tiendas retro con consolas, juegos clásicos y coleccionables — para amantes de lo vintage.
+- Mandarake (si disponible): buena para figuras y manga de segunda mano en buen estado.
+
+Consejo para compras: llevad bolsas extra o considerad envío a España para compras voluminosas (muchas tiendas ofrecen servicio de envío internacional o preparan paquetes para llevar al aeropuerto).
+
+Horarios sugeridos:
+
 - 08:30 – Desayuno en Kuromon Ichiba
 - 10:30 – Últimas compras y paseo por Dotonbori si falta algo
 - 13:00 – Viaje a Kyoto y check-in
 - 16:00 – Paseo por la estación de Kyoto y compras ligeras
 
 Transporte paso a paso:
+
 - Desde Namba: tomar la línea de metro o JR hasta Osaka Station y coger un tren rapido a Kyoto (JR Special Rapid) o Hankyu desde Umeda según tus billetes
 
 Coste aproximado del día (por persona): ¥2,000–4,000 (comidas + transporte)
 
 Restaurantes recomendados:
+
 - Endo Sushi (sencillo y fresco) en el mercado — buen lugar para sushi fresco por la mañana.
 - Menya (ramen) cerca de la estación — práctico y rápido.
 
 Alternativa por mal tiempo:
+
 - Visitar centros comerciales en Osaka como Namba Parks o Grand Front Osaka antes de partir.
 
 Consejos extra:
+
 - Si lleváis mucho equipaje, muchas estaciones tienen coin lockers; usa uno temporal para pasear sin peso.
 
 ---
@@ -253,6 +315,7 @@ Transporte: Bus 100/206 → Gojo-zaka. Tiempo estimado: 5–7 h.
 Tips: Lleva una cámara para capturar las callejuelas; a la hora del té, reserva con antelación si quieres una experiencia tradicional.
 
 Horarios sugeridos:
+
 - 08:00 – Desayuno y salida hacia Kiyomizudera
 - 09:00 – Visita a Kiyomizudera y recorrido por Higashiyama
 - 12:30 – Almuerzo en restaurante tradicional
@@ -260,18 +323,22 @@ Horarios sugeridos:
 - 17:30 – Gion y cena
 
 Transporte paso a paso:
+
 - Desde Kyoto Station: tomar bus 100/206 hasta Gojo-zaka / Kiyomizudera-michi
 
 Coste aproximado del día (por persona): ¥2,500–5,000 (entradas + comidas + transporte)
 
 Restaurantes recomendados:
+
 - Omen (udon tradicional cerca de Gion) — platos caseros y reconfortantes.
 - Izuju Sushi — especialidad local de Kyoto.
 
 Alternativa por mal tiempo:
+
 - Visitar museos cercanos (Kyoto National Museum) o probar una experiencia de ceremonia del té cubierta.
 
 Consejos extra:
+
 - Evitad llevar maletas grandes en las calles estrechas; hay servicios de entrega de equipaje entre hoteles si necesitáis mover maletas.
 
 ---
@@ -289,6 +356,7 @@ Transporte: JR Sagano Line → Saga-Arashiyama Station. Tiempo estimado: 5–7 h
 Tips: Llegad a primera hora al bambú; combina con una caminata ligera por la zona.
 
 Horarios sugeridos:
+
 - 07:30 – Salida hacia Arashiyama
 - 08:30 – Llegada y paseo por el bosque de bambú
 - 10:30 – Visita a Tenryu-ji
@@ -297,18 +365,22 @@ Horarios sugeridos:
 - 17:00 – Regreso a Kyoto
 
 Transporte paso a paso:
+
 - Desde Kyoto Station: JR Sagano / San-in Line hasta Saga-Arashiyama o Hankyu desde Kawaramachi hasta Arashiyama
 
 Coste aproximado del día (por persona): ¥2,000–4,000 (transporte + entradas + comidas)
 
 Restaurantes recomendados:
+
 - Arashiyama Yoshimura (soba con vista al río) — buena opción para un almuerzo tranquilo.
 - % Arabica (café) — para un café de calidad cerca del puente.
 
 Alternativa por mal tiempo:
+
 - Visitar el Tenryu-ji (templo) y sus jardines interiores o Kyoto Aquarium.
 
 Consejos extra:
+
 - Llega muy temprano al bosque para fotos sin gente; el paseo puede hacerse en 2–3 horas si vais con calma.
 
 ---
@@ -324,24 +396,29 @@ Transporte: JR Nara Line → Inari Station o Keihan Main Line → Fushimi-Inari.
 Tips: Llevar agua y calzado cómodo; si queréis muchas fotos, intentar estar antes de las 8:00.
 
 Horarios sugeridos:
+
 - 07:00 – Llegada a Fushimi Inari para fotos sin multitudes
 - 09:30 – Desayuno en cafetería cercana
 - 11:00 – Paseo por Nishiki Market y comida
 - 14:00 – Visita a tiendas tradicionales o descanso en el hotel
 
 Transporte paso a paso:
+
 - Desde Kyoto Station: JR Nara Line hasta Inari Station (1 parada) o Keihan Main Line hasta Fushimi-Inari
 
 Coste aproximado del día (por persona): ¥1,500–3,000 (transporte + comidas)
 
 Restaurantes recomendados:
+
 - Nishiki Warai (okonomiyaki) — buena opción para probar sabores locales en Nishiki Market.
 - Izuu (sushi tradicional) — si buscas algo más formal.
 
 Alternativa por mal tiempo:
+
 - Visitar el mercado cubierto y concentrarse en experiencias gastronómicas interiores o museos cercanos.
 
 Consejos extra:
+
 - Considerad visitar el Fushimi Inari a última hora del día si preferís luz cálida para fotos (pero habrá más gente).
 
 ---
@@ -359,6 +436,7 @@ Transporte: Bus local a Kinkakuji; luego Shinkansen a Tokio (~2h30). Tiempo esti
 Tips: Dejar margen para cambios de estación y recogida de equipaje; compra comidas para el tren si queréis ahorrar tiempo.
 
 Horarios sugeridos:
+
 - 08:00 – Desayuno y salida hacia Kinkakuji
 - 09:00 – Visita al Pabellón Dorado
 - 12:00 – Regreso al hotel y check-out
@@ -366,18 +444,22 @@ Horarios sugeridos:
 - 17:00 – Llegada a Tokio y check-in en el hotel
 
 Transporte paso a paso:
+
 - Desde Kyoto: bus 101/205 a Kinkakuji; regreso a Kyoto Station para Shinkansen (Hikari)
 
 Coste aproximado del día (por persona): ¥13,500–16,000 (Shinkansen + comidas + entradas)
 
 Restaurantes recomendados:
+
 - Omen (si no lo probaste en Gion) o restaurantes junto a Kinkakuji para un almuerzo ligero.
 - Bento en la estación para el viaje en tren (variedades disponibles en kioscos)
 
 Alternativa por mal tiempo:
+
 - Si llueve, visitar museos locales o tomar el tren a Osaka para pasar más tiempo en interiores antes de partir.
 
 Consejos extra:
+
 - Compra las entradas y reservas con antelación para el Shinkansen y ten los billetes físicos listos.
 
 ---
