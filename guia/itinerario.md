@@ -115,8 +115,23 @@
 
 - **Imagen:** [Fushimi Inari](https://upload.wikimedia.org/wikipedia/commons/0/0c/Fushimi_Inari-taisha_01.jpg)
 - **Entradas:** Gratis.
-- **Transporte:** JR Nara Line → Inari Station.
-- **Tips:** Subir hasta la cima si hay energía (~2h).
+- **Transporte:** JR Nara Line → Inari Station. También accesible desde la estación de Fushimi-Inari (Keihan Main Line) si venís desde el centro de Kyoto.
+- **Horario recomendado:** Madrugar (7:00–9:00) para evitar multitudes; al atardecer (17:00–18:30) la luz es bonita pero hay más gente.
+- **Tiempo estimado:** 1–2 horas si sólo se recorren los tramos bajos con fotos; 2–3 horas si subís hasta el monte (ruta completa hasta la cima y vuelta).
+- **Plan sugerido del día:**
+  - Mañana temprano: Visita a **Fushimi Inari Taisha** — recorrer los famosos torii naranjas y subir hasta el mirador intermedio.
+  - Mediodía: Volver hacia el centro y comer en **Nishiki Market** (sushi, takoyaki, pickles locales).
+
+- **Consejos prácticos:**
+  - Llevar calzado cómodo y agua; la subida tiene muchas escaleras y tramos empinados.
+  - Si queréis fotos sin gente, intentad estar antes de las 8:00.
+  - Hay pequeñas tiendas y puestos cerca del santuario con dulces tradicionales y souvenirs (omamori).
+  - Atención a la climatología: si llueve, la ruta puede estar resbaladiza.
+  - Tiempo para fotos: prever 30–60 min extra si queréis muchas fotos en los torii.
+
+***
+
+Nota de ubicación: he ampliado la sección con horario recomendado, tiempo estimado y consejos prácticos para que encaje con el resto del itinerario. Si prefieres que mueva Fushimi Inari a otro día (por ejemplo combinándolo con Kiyomizudera o Arashiyama), dímelo y lo reorganizo.
 
 ---
 
@@ -139,13 +154,38 @@
 
 ---
 
-### Día 11 — Sábado 15 Marzo: Shibuya + Harajuku + Meiji Jingu
+### Día 10 — Viernes 14 Marzo: Sensoji + Akihabara + Tokyo Skytree
 
-- **Imagen:** [Shibuya Crossing](https://upload.wikimedia.org/wikipedia/commons/7/7e/Shibuya_Crossing.jpg)
-- **Plan:** Cruce de Shibuya, estatua de Hachiko, compras en Shibuya 109.
-- **Transporte:** JR Yamanote Line → Shibuya / Harajuku.
-- **Entradas:** Meiji Jingu gratis.
-- **Tips:** Takeshita Street para moda alternativa, comer en izakayas de Shibuya.
+- **Imagen:** [Tokyo Skytree](https://upload.wikimedia.org/wikipedia/commons/3/3e/Tokyo_Skytree_2012.jpg)
+- **Plan:**
+  - Mañana: **Sensoji Temple** en Asakusa y paseo por Nakamise-dori (souvenirs).
+  - Mediodía: Almuerzo en Asakusa.
+  - Tarde: Subida al **Tokyo Skytree** (mirador a 350 m y 450 m).
+  - Noche: Paseo por **Akihabara** (tiendas de electrónica, manga, anime).
+- **Entradas:**
+  - Skytree 350 m: ~¥2,100–2,300
+  - Skytree 450 m: +¥1,000–1,200
+- **Transporte:**
+  - Metro Ginza Line → Asakusa.
+  - Desde Asakusa: 15 min a pie o 5 min en tren hasta Skytree.
+- **Tips:**
+  - Mejor hora: atardecer (16:30–17:30) para ver Tokio iluminado.
+  - Comprar entradas online para evitar colas.
+  - En Akihabara: probar un maid café o jugar en arcades.
+
+---
+
+### Día 11 — Sábado 15 Marzo: Shibuya + Harajuku (Takeshita Dori) + Meiji Jingu + Ueno Park
+
+- **Imagen:** [Takeshita Dori](https://upload.wikimedia.org/wikipedia/commons/3/3a/Takeshita_Street_Harajuku.jpg)
+- **Plan:**
+  - Mañana: Cruce de Shibuya, estatua de Hachiko, compras en Shibuya 109.
+  - Mediodía: Harajuku → paseo por **Takeshita Dori** (moda alternativa, crepes, souvenirs).
+  - Tarde: Santuario **Meiji Jingu**.
+  - Final de la tarde: Paseo por **Ueno Park** y museos opcionales.
+- **Transporte:** JR Yamanote Line → Shibuya / Harajuku / Ueno.
+- **Entradas:** Meiji Jingu gratis. Museos Ueno: ¥800–1,500. Zoo: ¥800.
+- **Tips:** Combina ocio juvenil con cultura y naturaleza.
 
 ---
 
@@ -155,7 +195,7 @@
 - **Plan:** Templos UNESCO + naturaleza.
 - **Entradas:** Toshogu ~1.300 ¥.
 - **Transporte:** JR Tohoku Line o Tobu Railway (~2h).
-- **Tips:** Llevar calzado cómodo, mucho que caminar. Clima más frío, llevar abrigo.
+- **Tips:** Llevar calzado cómodo, clima más frío.
 
 ---
 
@@ -166,10 +206,8 @@
   - Mañana: Shopping en Ginza (lujo).
   - Tarde: ABC Mart Shibuya + Don Quijote Shinjuku.
   - Noche: Daikoku Parking Area (coches tuning) + cena y copas en Golden Gai.
-- **Transporte:**
-  - Ginza: Metro Ginza Line.
-  - Daikoku: tren a Yokohama + taxi (~40 min, 2.000–3.000 ¥).
-- **Tips:** Golden Gai tiene bares pequeños, algunos cobran “cover charge”. Ideal para noche única.
+- **Transporte:** Ginza: Metro Ginza Line. Daikoku: tren a Yokohama + taxi (~40 min).
+- **Tips:** Golden Gai tiene bares pequeños, algunos cobran “cover charge”.
 
 ---
 
