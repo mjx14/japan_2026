@@ -476,6 +476,31 @@ Transporte: Metro Ginza Line → Asakusa; traslado a Skytree a pie o tren. Tiemp
 
 Tips: Planead el Skytree en horario de atardecer si queréis skyline; comprad entradas anticipadas.
 
+Horarios sugeridos:
+- 08:00 – Salida hacia Asakusa y visita a Sensoji
+- 10:30 – Paseo por Nakamise-dori y compras de souvenirs
+- 12:30 – Almuerzo en Asakusa
+- 14:30 – Subida al Tokyo Skytree (si se decide)
+- 17:30 – Traslado a Akihabara y exploración de tiendas/arcades
+- 20:30 – Cena en Akihabara y regreso al hotel
+
+Transporte paso a paso:
+- Metro Ginza Line a Asakusa
+- Desde Asakusa: caminar 15–20 min o tomar la línea Tobu al Skytree
+- Desde Skytree: Tobu/metro a Akihabara (15–20 min)
+
+Coste aproximado del día (por persona): ¥3,000–6,000 (entradas + comidas)
+
+Restaurantes recomendados:
+- Asakusa Imahan (sukiyaki) — cocina tradicional japonesa de calidad.
+- Akihabara Gyu-Kaku (yakiniku) o algún maid café si queréis la experiencia otaku.
+
+Alternativa por mal tiempo:
+- Pasar más tiempo en centros comerciales o visitar el Museo Edo-Tokyo si hace mal tiempo.
+
+Consejos extra:
+- Reservad entradas al Skytree online y mirad el pronóstico del tiempo para atardecer.
+
 ---
 
 ### Día 11 — Sábado 15 Marzo: Shibuya + Harajuku + Meiji Jingu + Ueno — Ritmo urbano
@@ -490,6 +515,28 @@ Transporte: JR Yamanote Line → Shibuya / Harajuku / Ueno. Tiempo estimado: 6�
 
 Tips: Evitad las horas pico en Shibuya; para Meiji Jingu llevad algo de reserva para fotos.
 
+Horarios sugeridos:
+- 09:00 – Salida al Cruce de Shibuya y Hachiko
+- 11:00 – Paseo por Takeshita Dori (Harajuku)
+- 13:00 – Almuerzo en Harajuku (crepes/ramen)
+- 15:00 – Visita a Meiji Jingu
+- 17:00 – Traslado a Ueno Park y visita a museo o paseo por el parque
+
+Transporte paso a paso:
+- JR Yamanote Line para moverse entre Shibuya, Harajuku y Ueno
+
+Coste aproximado del día (por persona): ¥2,500–5,000 (comidas + entradas a museos si corresponde)
+
+Restaurantes recomendados:
+- Harajuku Gyoza Lou — gyozas económicas y sabrosas.
+- Afuri (ramen) — para una opción de ramen ligera y citrica.
+
+Alternativa por mal tiempo:
+- Visitar el equipo de tiendas cubiertas en Shibuya e Ikebukuro (Sunshine City) o pasar más tiempo en museos.
+
+Consejos extra:
+- Evitad las escaleras mecánicas en Shibuya en hora punta; mantened las compras ligeras para no cargar demasiado.
+
 ---
 
 ### Día 12 — Domingo 16 Marzo: Excursión a Nikko — Patrimonio y naturaleza (jornada larga)
@@ -499,6 +546,28 @@ Todo el día: Salida temprano hacia Nikko; visita al santuario Toshogu y paseos 
 Transporte: JR Tohoku Line o Tobu Railway (~2 h). Tiempo estimado: jornada completa (8–10 h).
 
 Tips: Revisad horarios de trenes de vuelta y llevad algo de abrigo; las distancias entre recintos son caminables pero largas.
+
+Horarios sugeridos:
+- 06:30 – Salida desde Tokio (estación de salida según línea elegida)
+- 09:00 – Llegada a Nikko y visita al santuario Toshogu
+- 12:30 – Almuerzo en la zona del santuario
+- 15:00 – Paseo por la zona de Nikko-dan, cascadas y bosques
+- 18:00 – Regreso a Tokio
+
+Transporte paso a paso:
+- Desde Asakusa/Tokio: Tobu Railway directo a Nikko (recomendada por conveniencia) o JR + transfer
+
+Coste aproximado del día (por persona): ¥5,000–10,000 (tren + entradas + comidas)
+
+Restaurantes recomendados:
+- Hippari Dako (pequeño y tradicional, cerca de la estación de Nikko)
+- Kanaya Hotel Restaurant (opción más formal junto a las zonas turísticas)
+
+Alternativa por mal tiempo:
+- Posponer o cambiar a un plan urbano en Tokio (museos Ueno, shopping indoor)
+
+Consejos extra:
+- Comprad con antelación billetes y calculad el tiempo de transfer para no perder el último tren de regreso.
 
 ---
 
@@ -514,6 +583,27 @@ Transporte: Metro y trenes locales. Tiempo estimado: 6–9 h (según planes noct
 
 Tips: En Golden Gai muchos bares son pequeños y pueden aplicar cover; id con efectivo.
 
+Horarios sugeridos:
+- 09:30 – Mañana en Ginza (tiendas de lujo y cafés)
+- 12:30 – Almuerzo en Ginza (sushi o tempura)
+- 15:30 – Tarde de compras alternativas (Don Quijote, tiendas en Shibuya)
+- 20:00 – Noche en Golden Gai o Daikoku Parking Area
+
+Transporte paso a paso:
+- Metro Ginza Line para desplazaros en la zona de Ginza; tren a Yokohama si vais a Daikoku
+
+Coste aproximado del día (por persona): ¥3,000–8,000 (compras + comidas + transporte)
+
+Restaurantes recomendados:
+- Sushi Dai (si queréis algo premium, confirmar horarios y reservas)
+- Tempura Kondo (opción de alta gama en Ginza)
+
+Alternativa por mal tiempo:
+- Disfrutar de centros comerciales como Ginza Six o visitar el mercado interior de Tsukiji (Cubierto parcialmente)
+
+Consejos extra:
+- Si planeáis Daikoku por la noche, calculad transporte de regreso; puede implicar tren + taxi.
+
 ---
 
 ### Día 14 — Martes 18 Marzo: Día libre + fiesta final — Flexibilidad y repaso
@@ -526,6 +616,23 @@ Transporte: Depende del plan. Tiempo estimado: flexible.
 
 Tips: Reservad algo de tiempo para preparar equipaje y dejarlo listo para la salida del día siguiente.
 
+Horarios sugeridos:
+- Mañana: Descanso o actividad ligera (Shinjuku Gyoen, compras)
+- Tarde: Últimas compras o visita a un museo
+- Noche: Fiesta final en Roppongi o Shibuya
+
+Coste aproximado del día (por persona): ¥2,000–6,000 (depende de actividades y salida nocturna)
+
+Restaurantes recomendados:
+- Ichiran Ramen (bueno para una cena informal y rápida)
+- Torikizoku (izakaya económico y divertido)
+
+Alternativa por mal tiempo:
+- Día de descanso en el hotel y compras en centros cubiertos.
+
+Consejos extra:
+- Dejad la maleta lista la noche anterior para evitar prisas.
+
 ---
 
 ### Día 15 — Miércoles 19 Marzo: Vuelo regreso — Cierre del viaje
@@ -533,6 +640,16 @@ Tips: Reservad algo de tiempo para preparar equipaje y dejarlo listo para la sal
 Mañana: Check-out y traslado al aeropuerto con suficiente antelación (2–3 h antes del vuelo internacional).
 
 Consejo final: Comprad un bentō en la estación si queréis una comida práctica para el viaje y guardad recuerdos en el equipaje de mano.
+
+Horarios sugeridos:
+- 06:00 – Check-out y traslado al aeropuerto según hora de vuelo
+- 07:30 – Llegada al aeropuerto y trámites
+- 09:30 – Tiempo libre antes del embarque (si aplica)
+
+Coste aproximado del día (por persona): ¥1,500–3,000 (transfer al aeropuerto + comidas)
+
+Consejos extra:
+- Revisad el peso de las maletas y las restricciones de líquidos en el equipaje de mano.
 
 ---
 
