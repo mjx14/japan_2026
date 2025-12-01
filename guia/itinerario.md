@@ -738,7 +738,8 @@ Entrada: Gratis (bebidas en el bar, opcional)
 | 22:00 – **Shibuya Street Kart** (¥7,000–10,000 por 1h: conduces karts disfrazado de personajes por Tokio) 📸 VIRAL TikTok |
 | 23:30 – Traslado a **Roppongi** (15 min metro) |
 | 00:00–03:00 – **ROPPONGI FIESTA:** Discotecas/bares |
-| 04:00 – Regreso al hotel (taxi o metro 24h) |
+| 03:00–04:00 – **GACHA SHOPS NOCTURNAS:** Antes de irte, pasa por gacha arcades (están abiertas 24h) |
+| 04:30 – Regreso al hotel (taxi o metro 24h) |
 
 #### 🎢 OPCIONALES (si te apetece):
 
@@ -885,31 +886,25 @@ Entrada: ¥2,100 (observatorio principal)
 
 ---
 
-#### 🏎️ NISSAN GTR EXPERIENCE (Tarde/Noche - LO IMPORTANTE)
+#### 🏎️ NISSAN GTR ALQUILER (Tarde/Noche - LO IMPORTANTE)
 
-**OPCIONES:**
+**ALQUILER GTR EN TOKIO:**
 
-**Opción 1: Rent-a-Car GTR (~¥20,000–30,000 = €140–210)**
-- Alquilas el coche
-- Conduces tú (licencia internacional)
-- 2–3 horas por Tokio/Bahía Tokyo
+- **Nissan Rent-a-Car** — reserva online, necesitas licencia internacional
+- **Skyline Club Tokyo** — especializada en alquileres deportivos
+- Coste: ¥20,000–30,000 (~€140–210) por 2–3 horas
+- Conduces tú mismo por Tokio y alrededores (bahía Tokyo es épica de noche)
 
-Empresas:
-- **Nissan Rent-a-Car** (reservar online)
-- **Skyline Club Tokyo**
+**Requisitos:**
+- Pasaporte + licencia internacional
+- Tarjeta de crédito (depósito)
+- Edad mínima: 20 años
 
-**Opción 2: Test Drive Nissan (¥0)**
-- Llamas a concesionario Nissan Tokio
-- Haces test drive oficial
-- Conductor suyo = gratis
-- Fotos tuyas = sí
-
-**Opción 3: Experiencia en Circuito (¥10,000–20,000)**
-- **Ebisu Circuit** (45 min desde Tokio)
-- Conduces en circuito de velocidad
-- Experiencia profesional
-
-**Recomendación:** Opción 2 (test drive) = gratis + legal + fotos
+**Tips:**
+- Reserva con 1 semana de anticipación
+- Pide GTR R34 o R35 si es posible
+- Fotos de noche en bahía Tokyo = BRUTAL
+- Lleva GoPro/cámara para video
 
 | Horarios Sugeridos |
 |---|
@@ -921,9 +916,11 @@ Empresas:
 | 14:00 – Tokyo Tower (¥900) |
 | 15:30 – Parque Ueno + Ameyoko Street |
 | 17:00 – Regreso hotel, ducha, preparación |
-| 18:30 – **TEST DRIVE NISSAN GTR** (fotos, sensaciones) |
-| 20:00 – Cena celebración GTR en Roppongi |
-| 22:00 – Regreso hotel |
+| 18:00 – **RECOGIDA GTR EN RENTAL** |
+| 18:30–21:30 – **CONDUCIR GTR POR TOKIO (fotos, bahía, noche)** |
+| 21:30 – Devolver coche rental |
+| 22:00 – Cena celebración GTR en Roppongi |
+| 23:30 – Regreso hotel |
 
 💰 **Coste (por persona):**
 - Tsukiji (sushi): ¥2,000–3,000 (~€14–21)
@@ -931,9 +928,10 @@ Empresas:
 - Palacio/museos: Gratis
 - Tokyo Tower: ¥900 (~€6,30)
 - Ueno: Gratis
-- **GTR Test Drive: ¥0–20,000** (¥0 si oficial test drive, ¥20k si alquila)
+- **GTR Alquiler: ¥20,000–30,000 (~€140–210)**
+- Combustible: ¥3,000–5,000 (~€21–35)
 - Cena: ¥3,000–5,000 (~€21–35)
-- **Total: €51–92** (sin alquiler GTR)
+- **Total: €212–325** (con GTR alquiler)
 
 ---
 
@@ -976,32 +974,93 @@ Horarios: 11:00–21:00 (típicamente)
 
 ---
 
-### Día 15 — Miércoles 18 Marzo: Día Libre (Descanso antes del vuelo)
+### 📱 Día 15 — Miércoles 18 Marzo: FRIKI SHOPPING DAY
 
-**Plan:** Día tranquilo. Últimas cosas, relajarse, preparar maletas.
+**Tema:** Tokio es el paraíso del gaming. Hoy es el día para Nintendo, Sony, arcades y máquinas de gacha. Shopping + diversión retro garantizado.
 
-**Sugerencias:**
-- Desayuno tranquilo
-- Visita a museo (Teamlab Borderless, Ghibli si prefieres)
-- Compras last-minute en convenience stores (snacks, souvenirs baratos)
-- Cena especial en algún lugar memorable
-- Packing final
+| Horario | Actividad |
+|---------|-----------|
+| 09:00–09:30 – Desayuno en el hotel |
+| 10:00–11:30 – **NINTENDO STORE TOKIO** (Shinjuku) |
+| 11:45–13:00 – Almuerzo rápido cerca de Shinjuku |
+| 13:15–14:45 – **SONY STORE TOKIO** (Ginza) |
+| 15:00–16:30 – **ARCADE CENTER RETRO** (Akihabara) |
+| 16:45–18:00 – **UFO CATCHER & GACHA ZONE** (Akihabara) |
+| 18:15–19:30 – Cena + compras finales en Akihabara |
+| 19:30 – Regreso al hotel |
 
-| Horarios Sugeridos |
-|---|
-| 08:00 – Desayuno |
-| 10:00 – Último paseo por barrio del hotel |
-| 12:00 – Almuerzo relajado |
-| 14:00 – Compras last-minute |
-| 16:00 – Regreso hotel |
-| 18:00 – Preparar maletas (importante: llevar a donde lleva) |
-| 19:00 – Cena final en Tokio |
-| 21:00 – Sueño temprano (vuelo temprano mañana) |
+**🎮 NINTENDO STORE TOKIO** (Shinjuku)
+- **Dirección:** Shinjuku Marui Men 3F, Tokio (a 5 min de Shinjuku Station)
+- **Horario:** 11:00–20:00 (abierto todos los días)
+- **Qué encontrar:**
+  - Nintendo Switch exclusivas (modelos/colores Japón)
+  - Pokemon merchandise (peluches, tarjetas, accesorios)
+  - Zelda, Mario, Splatoon, Animal Crossing (todas las líneas)
+  - Joy-Con personalizados y skins especiales
+  - Accesorios gaming (mochilas, auriculares, cables)
+- **Precio aprox:** ¥2,000–8,000/persona (€14–56)
+- **Consejo:** Llega 15 min antes de abrir para evitar cola (este lugar llena enseguida)
 
-💰 **Coste (por persona):**
-- Museo (si entras): ¥3,000–5,000 (~€21–35)
-- Comidas: ¥3,000–4,000 (~€21–28)
-- **Total: €42–63**
+**🕹️ SONY STORE / PLAYSTATION CENTER TOKIO** (Ginza)
+- **Dirección:** Sony Park (Sony Building B1F), Ginza, Tokio
+- **Horario:** 11:00–20:00 (cerrado lunes)
+- **Qué encontrar:**
+  - PlayStation 5 (si hay stock = oportunidad de merch exclusivo)
+  - Mandos y accesorios PlayStation personalizados
+  - Demo stations (juega últimos lanzamientos)
+  - Sony tech (cámaras, auriculares, relojería)
+  - Merch de franchises famosas (Final Fantasy, Street Fighter, etc.)
+- **Precio aprox:** ¥1,500–6,000/persona (€10–42)
+- **Consejo:** Es tienda tech premium; buen lugar para auriculares gaming o cargadores de lujo
+
+**🎰 ARCADE CENTER RETRO** (Akihabara – "Game Center Kosaten" o "Sega Arcade")
+- **Qué es:** Centro arcade con máquinas clásicas (Space Invaders, Pac-Man, DDR, beatmania) + arcade moderno
+- **Ubicación:** Akihabara (zona Gaming central)
+- **Horario:** 11:00–23:00 típicamente (algunos 24h)
+- **Experiencia:**
+  - Juega rhythm games (Dance Dance Revolution, Sound Voltex, BEMANI)
+  - Prueba cabinas de competición retro
+  - Juega juegos de disparos clásicos
+  - Tómate un descanso con purikura (cabinas de fotos con stickers)
+- **Precio aprox:** ¥2,000–3,500/persona (€14–25 en monedas)
+- **Consejo:** Trae ¥1,000-2,000 en monedas; son máquinas arcade clásicas
+
+**🎁 UFO CATCHER & GASHAPON ZONE** (Akihabara)
+- **Qué son:** Máquinas UFO catcher (grúa para ganar peluches/premios) + dispensadores de gashapon (juguetes sorpresa en cápsulas)
+- **Ubicación:** Akihabara (zona Radio Kaikan, Yodabashi, Don Quijote)
+- **Gashapon disponibles:**
+  - **Pokemon:** Pikachu, Charizard, Eevee, legendarios (¥300–500/cápsula)
+  - **Demon Slayer:** Tanjiro, Nezuko, hashira (¥400–600/cápsula)
+  - **Anime general:** Naruto, Dragon Ball, One Piece, Jujutsu Kaisen (¥300–500)
+  - **Vintage:** Retro Nintendo, Game Boy, arcade cabinets (¥200–400)
+- **Presupuesto:** ¥2,000–4,000/persona (€14–28) para varios gashapon
+- **Consejo:** Apunta qué personajes quieres antes; cada máquina tiene 1-2 personajes específicos
+
+**🚇 Cómo moverte:**
+1. Shinjuku → Ginza: Tren Marunouchi Line (2 estaciones, 5 min)
+2. Ginza → Akihabara: Tren Ginza Line (2 estaciones, 5 min) O Chiyoda Line (1 estación)
+3. Akihabara: Todo está a pie (todas las tiendas en radio de 500m)
+
+**💰 Presupuesto Día 15:**
+| Concepto | Rango €/persona |
+|----------|-----------------|
+| Desayuno | 5–10 |
+| Nintendo Store | 14–56 |
+| Almuerzo | 8–15 |
+| Sony Store | 10–42 |
+| Arcade Center | 14–25 |
+| UFO Catcher + Gashapon | 14–28 |
+| Cena + compras | 20–40 |
+| **TOTAL Día 15** | **85–216** |
+
+**🏩 GASHAPON NIGHT OUTING (Bonus para Día 14 noche):**
+
+Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
+- **Don Quijote Shinjuku:** Pisos enteros de gashapon (3F+4F suelen ser gacha floors), ¥300–500/cápsula
+- **Kiddyland Shinjuku:** Centro comercial juguetero con gacha machines, ¥300–600/cápsula
+- **Sega Arcade Shinjuku:** Gaming + gashapon nocturnas, abierto hasta 23:00
+
+**Nota:** La mayoría de hoteles en Tokio están en **Shinjuku area**, así que estas opciones están a 5-10 min a pie. Perfecto para una salida nochecita después de Roppongi (Día 14, Martes 17 Mar, ~02:00-03:00) o antes de volver Día 15.
 
 ---
 
@@ -1035,9 +1094,9 @@ Horarios: 11:00–21:00 (típicamente)
 | **Domingo (Meiji + Harajuku + Shinjuku)** | €49–77 |
 | **Lunes (Landmarks + GTR)** | €51–92 |
 | **Martes (ABC + compras)** | €56–140 |
-| **Miércoles (Día libre)** | €42–63 |
+| **Miércoles (Friki Shopping Day)** | €85–216 |
 | **Jueves (Aeropuerto + regreso)** | €35–56 |
-| **TOTAL TOKIO (sin alojamiento)** | **€380–736** |
+| **TOTAL TOKIO (sin alojamiento)** | **€408–795** |
 
 ✅ **Tokio es caro pero VALE LA PENA.** Fiesta, coches, compras, temples, todo en uno. Es el cierre perfecto.
 
