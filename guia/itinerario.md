@@ -25,16 +25,22 @@
 
 ### Tabla de Gastos por Persona
 
-| Concepto          | Costo Total | Costo/Persona |
-|-------------------|-------------|---------------|
-| **Vuelos**        | 860€        | **860€**      |
-| **Hotel Osaka**   | 290,30€     | **48,38€**    |
-| **Hotel Kioto**   | 517,14€     | **86,19€**    |
-| **Hotel Tokio**   | 1017€       | **169,50€**   |
-| **Alojamiento**   | 1824,44€    | **304,07€**   |
-| **TOTAL**         | **2684,44€**| **1164,07€**  |
+| Concepto          | Costo Total | Costo/Persona | Rango |
+|-------------------|-------------|---------------|-------|
+| **Vuelos**        | 860€        | **860€**      | Fijo |
+| **Hotel Osaka**   | 290,30€     | **48,38€**    | Fijo |
+| **Hotel Kioto**   | 517,14€     | **86,19€**    | Fijo |
+| **Hotel Tokio**   | 1017€       | **169,50€**   | Fijo |
+| **Subtotal Alojamiento** | 1824,44€ | **304,07€** | Fijo |
+| — | — | — | — |
+| **Osaka (comidas + actividades)** | — | **€475–525** | Estimado |
+| **Kioto (comidas + actividades + Shinkansen)** | — | **€193–256** | Estimado |
+| **Tokio (comidas + actividades + GTR + Friki)** | — | **€408–795** | Estimado |
+| **Subtotal Actividades** | — | **€1,076–1,576** | Estimado |
+| — | — | — | — |
+| **TOTAL GENERAL** | **~3,900–4,400€** | **~1,650–1,900€** | **Variable** |
 
-*Nota: No incluye comidas, transporte local, entradas a museos/templos ni actividades.*
+*Nota: Vuelos y alojamiento ya están pagados (€1,164 por persona). La tabla incluye estimaciones de comidas, transporte local (metro, taxis), entradas a museos/templos, y experiencias premium (Universal EXPRESS PASS, GTR alquiler, Shibuya Street Kart, etc.). Las compras/souvenirs son adicionales según preferencia.*
 
 ---
 
