@@ -360,6 +360,12 @@ Si os interesa **Demon Slayer** específicamente, comprad en:
 
 Kyoto es la capital cultural de Japón. Aquí nos enfocamos en lo **clásico, zen y tradicional** — un contraste perfecto después de Osaka. Tres días completos de templos, geishas, mercados y caminatas por callejuelas históricas.
 
+### 🗺️ Mapa Interactivo de Kyoto
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1j4zyYtK6MPShp8-3PjaSHWdCEp1bg4c&femb=1" width="100%" height="480"></iframe>
+
+**[Abrir mapa en ventana grande](https://www.google.com/maps/d/viewer?mid=1j4zyYtK6MPShp8-3PjaSHWdCEp1bg4c&femb=1&ll=35.00354009897058%2C135.73337915&z=14)**
+
 ---
 
 ### Día 6 — Lunes 10 Marzo: Kyoto Tradicional — Gion, Kiyomizudera, Nishiki Market
