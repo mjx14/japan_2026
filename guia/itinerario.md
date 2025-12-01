@@ -666,207 +666,379 @@ Consejos extra:
 
 ---
 
-### Día 10 — Viernes 14 Marzo: Asakusa + Skytree + Akihabara — Tradición y modernidad
+## 🗾 TOKIO (13–19 Marzo — 6 Noches + 1 Vuelo)
 
-Mañana: Sensoji Temple y paseo por Nakamise-dori.
-
-Mediodía: Almuerzo en Asakusa; posibilidad de ir al Tokyo Skytree para vistas (compra entradas online).
-
-Atardecer/Noche: Akihabara para tiendas de electrónica, arcades y cultura otaku.
-
-Transporte: Metro Ginza Line → Asakusa; traslado a Skytree a pie o tren. Tiempo estimado: 6–8 h.
-
-Tips: Planead el Skytree en horario de atardecer si queréis skyline; comprad entradas anticipadas.
-
-Horarios sugeridos:
-- 08:00 – Salida hacia Asakusa y visita a Sensoji
-- 10:30 – Paseo por Nakamise-dori y compras de souvenirs
-- 12:30 – Almuerzo en Asakusa
-- 14:30 – Subida al Tokyo Skytree (si se decide)
-- 17:30 – Traslado a Akihabara y exploración de tiendas/arcades
-- 20:30 – Cena en Akihabara y regreso al hotel
-
-Transporte paso a paso:
-- Metro Ginza Line a Asakusa
-- Desde Asakusa: caminar 15–20 min o tomar la línea Tobu al Skytree
-- Desde Skytree: Tobu/metro a Akihabara (15–20 min)
-
-Coste aproximado del día (por persona): ¥3,000–6,000 (entradas + comidas)
-
-Restaurantes recomendados:
-- Asakusa Imahan (sukiyaki) — cocina tradicional japonesa de calidad.
-- Akihabara Gyu-Kaku (yakiniku) o algún maid café si queréis la experiencia otaku.
-
-Alternativa por mal tiempo:
-- Pasar más tiempo en centros comerciales o visitar el Museo Edo-Tokyo si hace mal tiempo.
-
-Consejos extra:
-- Reservad entradas al Skytree online y mirad el pronóstico del tiempo para atardecer.
+Tokio = caos, energía, modernidad y friki heaven. Arcade games, tiendas de ropa, barrios cyberpunk, coches tunning y fiesta. Esto es lo nuestro.
 
 ---
 
-### Día 11 — Sábado 15 Marzo: Shibuya + Harajuku + Meiji Jingu + Ueno — Ritmo urbano
+### Día 10 — Viernes 13 Marzo: Llegada a Tokio + Doikoku Parking (Coches Tunning)
 
-Mañana: Cruce de Shibuya y compras rápidas en Shibuya 109.
+**Plan:** Llegas a Tokio a las 15:30. Check-in rápido. **Viernes por la noche = Doikoku Parking** (es LEGENDARIO en TikTok/YouTube).
 
-Mediodía: Paseo por Takeshita Dori (Harajuku) y crepes callejeros.
+#### 🚗 DOIKOKU PARKING (Cultura Tunning Japonesa)
 
-Tarde: Visita al Santuario Meiji Jingu y traslado a Ueno Park para pasear y, si os apetece, visitar un museo.
+Ubicación: Yokohama (45 min desde Tokio en tren)  
+Horarios: 22:00–05:00 (abierto viernes-domingo noches)  
+Entrada: Gratis (bebidas en el bar, opcional)
 
-Transporte: JR Yamanote Line → Shibuya / Harajuku / Ueno. Tiempo estimado: 6–8 h.
+**Lo especial:** Underground car meet. Coches tunning criminales, modificados, bajos extremos. Fotógrafos, tuners, ambiente demente. Esto es puro Japón otaku-motor.
 
-Tips: Evitad las horas pico en Shibuya; para Meiji Jingu llevad algo de reserva para fotos.
+**Cómo llegar:**
+- Metro desde tu hotel a **Sakuragicho Station**
+- Bus o taxi a Doikoku Parking
+- O directamente taxi (¥4,000–5,000 desde Shinjuku)
 
-Horarios sugeridos:
-- 09:00 – Salida al Cruce de Shibuya y Hachiko
-- 11:00 – Paseo por Takeshita Dori (Harajuku)
-- 13:00 – Almuerzo en Harajuku (crepes/ramen)
-- 15:00 – Visita a Meiji Jingu
-- 17:00 – Traslado a Ueno Park y visita a museo o paseo por el parque
+| Horarios Sugeridos |
+|---|
+| 15:30 – Llegada Tokio Station |
+| 16:00 – Traslado a hotel + check-in |
+| 16:30 – Ducha y descanso (importante: llegas cansado del Shinkansen) |
+| 18:00 – Cena temprano en Shinjuku |
+| 20:00 – Traslado a Doikoku Parking |
+| 22:00–02:00 – Doikoku (fotos, videos, ambiente) |
+| 02:30 – Regreso al hotel |
 
-Transporte paso a paso:
-- JR Yamanote Line para moverse entre Shibuya, Harajuku y Ueno
-
-Coste aproximado del día (por persona): ¥2,500–5,000 (comidas + entradas a museos si corresponde)
-
-Restaurantes recomendados:
-- Harajuku Gyoza Lou — gyozas económicas y sabrosas.
-- Afuri (ramen) — para una opción de ramen ligera y citrica.
-
-Alternativa por mal tiempo:
-- Visitar el equipo de tiendas cubiertas en Shibuya e Ikebukuro (Sunshine City) o pasar más tiempo en museos.
-
-Consejos extra:
-- Evitad las escaleras mecánicas en Shibuya en hora punta; mantened las compras ligeras para no cargar demasiado.
-
----
-
-### Día 12 — Domingo 16 Marzo: Excursión a Nikko — Patrimonio y naturaleza (jornada larga)
-
-Todo el día: Salida temprano hacia Nikko; visita al santuario Toshogu y paseos por la zona. Es una excursión que consume casi todo el día desde Tokio.
-
-Transporte: JR Tohoku Line o Tobu Railway (~2 h). Tiempo estimado: jornada completa (8–10 h).
-
-Tips: Revisad horarios de trenes de vuelta y llevad algo de abrigo; las distancias entre recintos son caminables pero largas.
-
-Horarios sugeridos:
-- 06:30 – Salida desde Tokio (estación de salida según línea elegida)
-- 09:00 – Llegada a Nikko y visita al santuario Toshogu
-- 12:30 – Almuerzo en la zona del santuario
-- 15:00 – Paseo por la zona de Nikko-dan, cascadas y bosques
-- 18:00 – Regreso a Tokio
-
-Transporte paso a paso:
-- Desde Asakusa/Tokio: Tobu Railway directo a Nikko (recomendada por conveniencia) o JR + transfer
-
-Coste aproximado del día (por persona): ¥5,000–10,000 (tren + entradas + comidas)
-
-Restaurantes recomendados:
-- Hippari Dako (pequeño y tradicional, cerca de la estación de Nikko)
-- Kanaya Hotel Restaurant (opción más formal junto a las zonas turísticas)
-
-Alternativa por mal tiempo:
-- Posponer o cambiar a un plan urbano en Tokio (museos Ueno, shopping indoor)
-
-Consejos extra:
-- Comprad con antelación billetes y calculad el tiempo de transfer para no perder el último tren de regreso.
+💰 **Coste (por persona):**
+- Transporte Doikoku: ¥2,000–3,000 (~€14–21)
+- Bebidas/comidas Doikoku: ¥1,000–2,000 (~€7–14)
+- Cena Shinjuku: ¥2,000–3,000 (~€14–21)
+- **Total: €35–56**
 
 ---
 
-### Día 13 — Lunes 17 Marzo: Ginza + compras + Daikoku + Golden Gai — Compras y vida nocturna
+### Día 11 — Sábado 14 Marzo: MEGADÍA Tokio (Este + Oeste + Fiesta)
 
-Mañana: Shopping en Ginza y zona de lujo.
+**Plan:** Sábado = la mitad del día turismo, la otra mitad = DESCANSO/DUCHA, y por la noche = ROPPONGI FIESTA.
 
-Mediodía/Tarde: Tiendas alternativas en Shibuya y Don Quijote para cosas más practicas o souvenirs.
+#### 🏮 SECTOR ESTE: Asakusa → Akihabara → Ginza → Odaiba
 
-Noche: Si os interesa la cultura del motor, Daikoku Parking Area es una opción (excursión nocturna); noche cerrando en Golden Gai para una experiencia de bares íntimos.
+| Horarios Sugeridos |
+|---|
+| 08:00 – Desayuno en hotel |
+| 08:30 – Salida a **Asakusa** (Metro Ginza Line) |
+| 09:00 – Templo Sensoji (gratis, entrada libre) |
+| 09:45 – Nakamise-dori (compras, souvenirs, snacks) |
+| 11:00 – Traslado a **Akihabara** (5 min metro) |
+| 11:15 – Akihabara (arcades, tiendas electrónica, maid cafés) |
+| 13:00 – Almuerzo Akihabara |
+| 14:30 – Traslado a **Ginza** (10 min metro) |
+| 15:00 – Ginza (shopping luxury, tiendas Samsung, Apple, moda) |
+| 16:30 – Traslado a **Odaiba** (monorraíl futurista) |
+| 17:00 – Odaiba (Statue of Liberty replica, Tokyo Rainbow Bridge, teamLab Borderless si hay tiempo) |
+| 18:30 – Regreso al hotel + DUCHA + DESCANSO |
 
-Transporte: Metro y trenes locales. Tiempo estimado: 6–9 h (según planes nocturnos).
+#### 🌃 SECTOR OESTE: Shibuya → Roppongi
 
-Tips: En Golden Gai muchos bares son pequeños y pueden aplicar cover; id con efectivo.
+| Horarios Sugeridos (Noche) |
+|---|
+| 20:00 – Salida a **Shibuya** |
+| 20:15 – Cruce de Shibuya + Estatua Hachiko (fotos noche = brutal) |
+| 20:45 – **Shibuya Sky** (entrada ¥2,000, observatorio al atardecer/noche) |
+| 22:00 – **Shibuya Street Kart** (¥7,000–10,000 por 1h: conduces karts disfrazado de personajes por Tokio) 📸 VIRAL TikTok |
+| 23:30 – Traslado a **Roppongi** (15 min metro) |
+| 00:00–03:00 – **ROPPONGI FIESTA:** Discotecas/bares |
+| 04:00 – Regreso al hotel (taxi o metro 24h) |
 
-Horarios sugeridos:
-- 09:30 – Mañana en Ginza (tiendas de lujo y cafés)
-- 12:30 – Almuerzo en Ginza (sushi o tempura)
-- 15:30 – Tarde de compras alternativas (Don Quijote, tiendas en Shibuya)
-- 20:00 – Noche en Golden Gai o Daikoku Parking Area
+#### 🎢 OPCIONALES (si te apetece):
 
-Transporte paso a paso:
-- Metro Ginza Line para desplazaros en la zona de Ginza; tren a Yokohama si vais a Daikoku
+- **Shibuya 109** (tiendas de ropa/moda)
+- **Tokyo Skytree** (¥2,100, observable desde Odaiba)
 
-Coste aproximado del día (por persona): ¥3,000–8,000 (compras + comidas + transporte)
-
-Restaurantes recomendados:
-- Sushi Dai (si queréis algo premium, confirmar horarios y reservas)
-- Tempura Kondo (opción de alta gama en Ginza)
-
-Alternativa por mal tiempo:
-- Disfrutar de centros comerciales como Ginza Six o visitar el mercado interior de Tsukiji (Cubierto parcialmente)
-
-Consejos extra:
-- Si planeáis Daikoku por la noche, calculad transporte de regreso; puede implicar tren + taxi.
-
----
-
-### Día 14 — Martes 18 Marzo: Día libre + fiesta final — Flexibilidad y repaso
-
-Este día es para lo que más apetezca: compras de última hora, visitar un museo que quedó pendiente o simplemente descansar en Shinjuku Gyoen.
-
-Por la noche: Fiesta final en Roppongi o Shibuya según vuestro ánimo.
-
-Transporte: Depende del plan. Tiempo estimado: flexible.
-
-Tips: Reservad algo de tiempo para preparar equipaje y dejarlo listo para la salida del día siguiente.
-
-Horarios sugeridos:
-- Mañana: Descanso o actividad ligera (Shinjuku Gyoen, compras)
-- Tarde: Últimas compras o visita a un museo
-- Noche: Fiesta final en Roppongi o Shibuya
-
-Coste aproximado del día (por persona): ¥2,000–6,000 (depende de actividades y salida nocturna)
-
-Restaurantes recomendados:
-- Ichiran Ramen (bueno para una cena informal y rápida)
-- Torikizoku (izakaya económico y divertido)
-
-Alternativa por mal tiempo:
-- Día de descanso en el hotel y compras en centros cubiertos.
-
-Consejos extra:
-- Dejad la maleta lista la noche anterior para evitar prisas.
+💰 **Coste (por persona):**
+- Asakusa/Akihabara: ¥2,000–4,000 (~€14–28)
+- Ginza: ¥1,000–3,000 compras (libre)
+- Odaiba: ¥0 (gratis pasear), teamLab ¥3,200 si entras
+- Shibuya Sky: ¥2,000 (~€14)
+- **Street Kart: ¥7,000–10,000 (~€49–70)** ⭐ OBLIGATORIO
+- Roppongi (bebidas, entrada discoteca): ¥5,000–10,000 (~€35–70)
+- **Total: €112–252** (sin compras Ginza)
 
 ---
 
-### Día 15 — Miércoles 19 Marzo: Vuelo regreso — Cierre del viaje
+### Día 12 — Domingo 15 Marzo: MEIJI + HARAJUKU + SHINJUKU + KABUKICHO
 
-Mañana: Check-out y traslado al aeropuerto con suficiente antelación (2–3 h antes del vuelo internacional).
+**Plan:** Domingo = barrios clásicos + compras + zona de luces rojas.
 
-Consejo final: Comprad un bentō en la estación si queréis una comida práctica para el viaje y guardad recuerdos en el equipaje de mano.
+#### ⛩️ SANTUARIO MEIJI + JARDÍN IMPERIAL MEIJI JINGU
 
-Horarios sugeridos:
-- 06:00 – Check-out y traslado al aeropuerto según hora de vuelo
-- 07:30 – Llegada al aeropuerto y trámites
-- 09:30 – Tiempo libre antes del embarque (si aplica)
+Ubicación: Shibuya Ward  
+Horarios: 05:00–18:00 (jardín 09:00–16:00)  
+Entrada: Gratis (santuario), ¥500 jardín  
+Cómo llegar: JR Yamanote Line → Meiji-Jingu Station (1 min caminando)
 
-Coste aproximado del día (por persona): ¥1,500–3,000 (transfer al aeropuerto + comidas)
+**Lo especial:** Santuario histórico en medio del bosque. Zen puro. Menos turistas si llegas temprano.
 
-Consejos extra:
-- Revisad el peso de las maletas y las restricciones de líquidos en el equipaje de mano.
+#### 🌳 PARQUE YOYOGI
+
+Ubicación: Junto a Meiji Jingu  
+Horarios: Abierto 24h  
+Entrada: Gratis  
+**Lo especial:** Parque gigante con árboles, ciclocarriles, ambiente relajado.
+
+#### 👘 HARAJUKU (Takeshita Dori)
+
+Ubicación: Centro Shibuya  
+Horarios: Tiendas 11:00–19:00  
+Atmósfera: Fashion street pura. Crepes callejeros, tiendas de ropa alternativa, fotógrafos.
+
+**Tiendas imprescindibles:**
+- **Takeshita Dori** — crepes, ropa kawaii, tiendas alternativas
+- **Omotesando** — arquitectura moderna, diseñador
+
+#### 🌳 SHINJUKU GYOEN
+
+Ubicación: Shibuya  
+Horarios: 09:00–16:00 (cerrado lunes)  
+Entrada: ¥500  
+**Lo especial:** Jardín tradicional japonés. Estanques, puentes. Contrasta con caos Shinjuku.
+
+#### 🏙️ SHINJUKU (Barrio de Luces + Ayuntamiento)
+
+**Kabukicho** (Barrio rojo):
+- Pubs, karaoke, desnudistas, neon
+- Respeta = mira pero no toques
+
+**Omoide Yokocho** (Callejón de Recuerdos):
+- Izakayas viejos, yakitori, atmósfera retro
+
+**Ayuntamiento de Tokio** (Tokyo Metropolitan Building):
+- Entrada gratis
+- Observatorio piso 45 (vistas Tokio gratis)
+
+| Horarios Sugeridos |
+|---|
+| 07:00 – Salida a Meiji Jingu (llegada temprana = sin turistas) |
+| 08:00 – Paseo santuario (30 min tranquilo) |
+| 08:45 – Parque Yoyogi (camina, respira, toma café) |
+| 10:00 – Harajuku: Takeshita Dori + crepes |
+| 12:00 – Almuerzo Harajuku (ramen, sushi, crepes) |
+| 14:00 – Shinjuku Gyoen (camina jardín, fotos) |
+| 15:30 – Ayuntamiento Tokio (observatorio gratis, 20 min fotos) |
+| 16:30 – Kabukicho / Omoide Yokocho (paseo, ambiente) |
+| 18:00 – Cena Omoide Yokocho (yakitori local, ¥2,000–3,000) |
+| 20:00 – Karaoke o izakaya tradicional |
+| 22:00 – Regreso hotel (descanso; mañana: conducir GTR) |
+
+💰 **Coste (por persona):**
+- Meiji Jingu jardín: ¥500 (~€3,50)
+- Shinjuku Gyoen: ¥500 (~€3,50)
+- Comidas (Harajuku crepes, almuerzo, cena): ¥4,000–6,000 (~€28–42)
+- Karaoke (1–2h): ¥2,000–4,000 (~€14–28)
+- **Total: €49–77**
 
 ---
 
-Si quieres, puedo:
+### Día 13 — Lunes 16 Marzo: PALACIO IMPERIAL + TSUKIJI + UENO + TOKYO TOWER + SKYTREE
 
-- ajustar el ritmo (aligerar días consecutivos con mucha caminata),
-- mover Nikko a otra fecha o convertir el Día 14 en descanso completo después de viajes largos, o
-- añadir opciones alternativas (museos, restaurantes recomendados, reservas de restaurantes o enlaces a mapas).
+**Plan:** Lunes = todos los landmark clásicos. Mañana dedicada a esto, **tarde/noche: NISSAN GTR EXPERIENCE** 🏎️
 
-Dime qué prefieres y hago los ajustes y el commit final.
+#### 🏯 PALACIO IMPERIAL
+
+Ubicación: Centro Tokio  
+Horarios: Jardines abiertos 09:00–16:00 (cerrado lunes)  
+Entrada: Gratis  
+Cómo llegar: Metro Chiyoda Line → Otemachi
+
+**Lo especial:** Palacio del Emperador. Jardines hermosos pero fotografía limitada. Respeta protocolos.
+
+#### 🍣 TSUKIJI OUTER MARKET
+
+Ubicación: Ginza  
+Horarios: 05:00–14:00 (mejor ir temprano)  
+Entrada: Gratis (compras opcionales)  
+**Lo especial:** Mercado de sushi/pescado. Sushi fresco para desayunar (¥1,000–2,000 por plato premium).
+
+#### 🏯 JARDINES HAMARIKYU
+
+Ubicación: Ginza (5 min desde Tsukiji)  
+Horarios: 09:00–16:30  
+Entrada: ¥300  
+**Lo especial:** Jardín tradicional al lado del agua. Té de matcha en casa de té histórica (¥1,050).
+
+#### 🗼 TOKYO TOWER
+
+Ubicación: Minato Ward  
+Horarios: 09:00–23:00  
+Entrada: ¥900 (Main Deck)  
+**Lo especial:** Torre icónica. Roja. Vistas de Tokio. Menos turistas que Skytree.
+
+#### 🌸 PARQUE DE UENO
+
+Ubicación: Centro-norte Tokio  
+Horarios: Abierto 24h  
+Entrada: Gratis (museos dentro cobran)  
+**Lo especial:** Parque gigante con museos, lagos, templos.
+
+#### 🏪 AMEYOKO STREET
+
+Ubicación: Ueno  
+Horarios: 10:00–19:00  
+**Lo especial:** Calle comercial viejita. Tiendas alternativas, ropa de segunda mano, snacks raros.
+
+#### 🗼 TOKYO SKYTREE
+
+Ubicación: Este Tokio  
+Horarios: 08:00–21:00  
+Entrada: ¥2,100 (observatorio principal)  
+**Lo especial:** Torre más alta Japón (634m). Espectacular.
 
 ---
 
-### Día 15 — Miércoles 19 Marzo: Vuelo regreso
+#### 🏎️ NISSAN GTR EXPERIENCE (Tarde/Noche - LO IMPORTANTE)
 
-- **Imagen:** [Tokyo Station](https://upload.wikimedia.org/wikipedia/commons/3/3e/Tokyo_Station_2012.jpg)
-- **Plan:** Traslado al aeropuerto y vuelo de regreso a Bilbao.
-- **Tips:** Salir con tiempo (2–3 h antes). Comprar bentō en estación para el viaje.
+**OPCIONES:**
+
+**Opción 1: Rent-a-Car GTR (~¥20,000–30,000 = €140–210)**
+- Alquilas el coche
+- Conduces tú (licencia internacional)
+- 2–3 horas por Tokio/Bahía Tokyo
+
+Empresas:
+- **Nissan Rent-a-Car** (reservar online)
+- **Skyline Club Tokyo**
+
+**Opción 2: Test Drive Nissan (¥0)**
+- Llamas a concesionario Nissan Tokio
+- Haces test drive oficial
+- Conductor suyo = gratis
+- Fotos tuyas = sí
+
+**Opción 3: Experiencia en Circuito (¥10,000–20,000)**
+- **Ebisu Circuit** (45 min desde Tokio)
+- Conduces en circuito de velocidad
+- Experiencia profesional
+
+**Recomendación:** Opción 2 (test drive) = gratis + legal + fotos
+
+| Horarios Sugeridos |
+|---|
+| 08:00 – Desayuno |
+| 08:30 – Tsukiji (sushi fresco para desayunar) |
+| 10:00 – Palacio Imperial jardines |
+| 11:00 – Hamarikyu (té matcha, ¥1,050) |
+| 12:30 – Almuerzo zona Ginza |
+| 14:00 – Tokyo Tower (¥900) |
+| 15:30 – Parque Ueno + Ameyoko Street |
+| 17:00 – Regreso hotel, ducha, preparación |
+| 18:30 – **TEST DRIVE NISSAN GTR** (fotos, sensaciones) |
+| 20:00 – Cena celebración GTR en Roppongi |
+| 22:00 – Regreso hotel |
+
+💰 **Coste (por persona):**
+- Tsukiji (sushi): ¥2,000–3,000 (~€14–21)
+- Hamarikyu: ¥1,350 (~€9,50)
+- Palacio/museos: Gratis
+- Tokyo Tower: ¥900 (~€6,30)
+- Ueno: Gratis
+- **GTR Test Drive: ¥0–20,000** (¥0 si oficial test drive, ¥20k si alquila)
+- Cena: ¥3,000–5,000 (~€21–35)
+- **Total: €51–92** (sin alquiler GTR)
+
+---
+
+### Día 14 — Martes 17 Marzo: ABC MART + COMPRAS FINALES + TIEMPO LIBRE
+
+**Plan:** Día libre para compras (ABC Mart, ropa, souvenirs) y descanso.
+
+#### 👟 ABC MART
+
+Ubicación: Multiple (Shinjuku, Shibuya, Harajuku)  
+Horarios: 11:00–21:00 (típicamente)  
+**Lo especial:** Zapatería gigante. Deportivas, sneakers, marcas. Precios decentes.
+
+**Sucursales:**
+- **Shinjuku 3-Chome** (más grande)
+- **Shibuya Scramble**
+
+#### 👕 OTRAS COMPRAS:
+
+- **Uniqlo** — ropa casual, precios bajos
+- **H&M / Zara** — moda española en Japón
+- **Isetan** — departamentos lujo (Shinjuku)
+- **Don Quijote** — de todo a precio random
+
+| Horarios Sugeridos |
+|---|
+| 10:00 – Desayuno tranquilo |
+| 11:00 – ABC Mart (2–3 horas máximo) |
+| 14:00 – Otras tiendas (según apetezca) |
+| 16:00 – Café descanso |
+| 17:00 – Últimas compras / paseo Shinjuku |
+| 19:00 – Cena special (despedida Tokio) |
+| 21:00 – Preparar equipaje |
+
+💰 **Coste (por persona):**
+- ABC Mart: ¥5,000–15,000 (~€35–105, según gastes)
+- Otras compras: Libre
+- Cena: ¥3,000–5,000 (~€21–35)
+- **Total: €56–140** (sin excederse en compras)
+
+---
+
+### Día 15 — Miércoles 18 Marzo: Día Libre (Descanso antes del vuelo)
+
+**Plan:** Día tranquilo. Últimas cosas, relajarse, preparar maletas.
+
+**Sugerencias:**
+- Desayuno tranquilo
+- Visita a museo (Teamlab Borderless, Ghibli si prefieres)
+- Compras last-minute en convenience stores (snacks, souvenirs baratos)
+- Cena especial en algún lugar memorable
+- Packing final
+
+| Horarios Sugeridos |
+|---|
+| 08:00 – Desayuno |
+| 10:00 – Último paseo por barrio del hotel |
+| 12:00 – Almuerzo relajado |
+| 14:00 – Compras last-minute |
+| 16:00 – Regreso hotel |
+| 18:00 – Preparar maletas (importante: llevar a donde lleva) |
+| 19:00 – Cena final en Tokio |
+| 21:00 – Sueño temprano (vuelo temprano mañana) |
+
+💰 **Coste (por persona):**
+- Museo (si entras): ¥3,000–5,000 (~€21–35)
+- Comidas: ¥3,000–4,000 (~€21–28)
+- **Total: €42–63**
+
+---
+
+### Día 16 — Jueves 19 Marzo: VUELO REGRESO A BILBAO
+
+| Horarios Sugeridos |
+|---|
+| 05:30 – Despertarse (vuelo mañana temprano) |
+| 06:00 – Desayuno rápido, check-out |
+| 06:30 – Traslado aeropuerto (Narita/Haneda, ~1h desde centro) |
+| 08:00 – Llegada aeropuerto |
+| 08:30 – Trámites, seguridad |
+| 10:00 – Última compra aeropuerto (snacks, souvenirs) |
+| 10:30 – Embarque |
+| 11:00 – Despegue Tokio → Zurich → Bilbao |
+| 23:30 – Llegada Bilbao (18 horas después aprox) |
+
+💰 **Coste (por persona):**
+- Transfer aeropuerto: ¥3,000–5,000 (~€21–35)
+- Snacks aeropuerto: ¥2,000–3,000 (~€14–21)
+- **Total: €35–56**
+
+---
+
+## 📊 PRESUPUESTO TOTAL TOKIO (6 días + vuelo)
+
+| Concepto | Presupuesto |
+|---|---|
+| **Doikoku Parking** | €35–56 |
+| **Megadía Sábado (Este + Fiesta)** | €112–252 |
+| **Domingo (Meiji + Harajuku + Shinjuku)** | €49–77 |
+| **Lunes (Landmarks + GTR)** | €51–92 |
+| **Martes (ABC + compras)** | €56–140 |
+| **Miércoles (Día libre)** | €42–63 |
+| **Jueves (Aeropuerto + regreso)** | €35–56 |
+| **TOTAL TOKIO (sin alojamiento)** | **€380–736** |
+
+✅ **Tokio es caro pero VALE LA PENA.** Fiesta, coches, compras, temples, todo en uno. Es el cierre perfecto.
+
+---
