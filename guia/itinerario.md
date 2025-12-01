@@ -93,34 +93,53 @@
 
 ## 📅 Itinerario Completo — FECHAS CORRECTAS
 
-**Día 1 (Miérc 4 Mar):** Vuelo Bilbao → Zürich  
-**Día 2 (Juev 5 Mar):** Zürich → Tokio, vuelo doméstico → Osaka (llegada ~13:00)  
-**Día 3 (Viern 6 Mar):** Universal Studios Japan (Día Completo)  
-**Día 4 (Sáb 7 Mar):** Osaka Otaku (Dotonbori, Shinsekai, Den Den Town)  
-**Día 5 (Dom 8 Mar):** Castillo Osaka + Umeda + Shinsekai (Noche)  
-**Día 6 (Lun 9 Mar):** Kuromon + tendencias TikTok + traslado a Kyoto  
-**Día 7 (Mar 10 Mar):** Kiyomizudera + Gion (Kioto)  
-**Día 8 (Mié 11 Mar):** Arashiyama (Kioto)  
-**Día 9 (Jue 12 Mar):** Fushimi Inari + Nishiki Market (Kioto)  
-**Día 10 (Vie 13 Mar):** Kinkakuji + traslado a Tokio  
-**Día 11 (Sáb 14 Mar):** Asakusa + Skytree + Akihabara  
-**Día 12 (Dom 15 Mar):** Shibuya + Harajuku + Meiji Jingu + Ueno  
-**Día 13 (Lun 16 Mar):** Día libre en Tokio  
-**Día 14 (Mar 17 Mar):** Ginza + compras + experiencias únicas  
-**Día 15 (Mié 18 Mar):** Descanso y últimas compras  
-**Día 16 (Jue 19 Mar):** Vuelo Tokio → Zürich → Bilbao
+**Día 1-2 (Miérc 4 Mar - Juev 5 Mar):** Vuelo Bilbao → Zürich → Tokio; vuelo doméstico → Osaka (llegada ~13:00); **Dotonbori** para cenar  
+**Día 3 (Viern 6 Mar):** **Universal Studios Japan** con EXPRESS PASS (Día Completo)  
+**Día 4 (Sáb 7 Mar):** **Den Den Town + Pokémon Center** + anime shopping (reemplazó Nara)  
+**Día 5 (Dom 8 Mar):** **Castillo Osaka + Umeda Sky Building + Shinsekai** (noche)  
+**Día 6 (Lun 9 Mar):** **Kuromon Market** + compras finales + **Shinkansen a Kyoto**  
+**Día 7 (Mar 10 Mar):** **Kiyomizudera + Gion + Nishiki Market + Pontocho** (cena)  
+**Día 8 (Mié 11 Mar):** **Arashiyama + Tenryu-ji + Kinkakuji + Ryoan-ji + Philosopher's Path**  
+**Día 9 (Jue 12 Mar):** **Fushimi Inari (torii tunnel) + Tofuku-ji + Kyoto Tower**  
+**Día 10 (Vie 13 Mar):** **Hongan-ji** (mañana) + **Shinkansen a Tokio** (tarde)  
+**Día 11 (Sáb 14 Mar):** **Doikoku Parking** (22:00-05:00, coches tunning, TikTok moment)  
+**Día 12 (Dom 15 Mar):** **MEGADÍA:** Asakusa → Akihabara → Ginza → Odaiba → **Shibuya Sky + Shibuya Street Kart** (viral) → **Roppongi fiesta**  
+**Día 13 (Lun 16 Mar):** **Meiji Jingu + Harajuku + Shinjuku Gyoen + Kabukicho + Omoide Yokocho + karaoke**  
+**Día 14 (Mar 17 Mar):** **Tsukiji + Palacio Imperial + Hamarikyu + Tokyo Tower + Ueno + Ameyoko + NISSAN GTR ALQUILER** (tarde/noche)  
+**Día 15 (Mié 18 Mar):** **ABC MART + compras finales**  
+**Día 16 (Jue 19 Mar):** **FRIKI SHOPPING DAY:** Nintendo Store + Sony Store + Arcade Centers + UFO Catcher/Gashapon  
+**Día 17 (Vie 20 Mar):** **Vuelo Tokio → Zürich → Bilbao** (10:30 despegue)
 
 ---
 
 ## Balance general del viaje
 
-En general el itinerario está bien balanceado: combina ciudades grandes (Osaka, Kyoto, Tokio) con excursiones puntuales (Nara, Nikko) y días de ocio. Algunas observaciones:
+**Perfil del grupo:** Jóvenes friki (anime, Pokemon, Demon Slayer, videojuegos, tendencias TikTok, tuning de coches). Este itinerario está 100% personalizado para vosotros.
 
-- Días con mucha actividad física: Arashiyama (bosque y paseos), Fushimi Inari (subida) y Nikko (templos y caminatas). Considera no apilar los tres días consecutivos si prefieres ritmo más relajado.
-- Excursiones largas: Universal (día completo) y Nikko (excursión de todo el día desde Tokio). Asegúrate de salir temprano para Nikko y revisar horarios de trenes.
-- Traslados: El día 9 incluye Kinkakuji y luego Shinkansen a Tokio; es un día de transiciones — prever tiempo suficiente para el check-out y llegar con antelación a la estación.
+**Estructura regional:**
+- **Osaka (Días 1-6, 5 noches):** Entrada joven/trendy, Universal Studios, Den Den Town, Pokémon Center, Shinsekai nightlife, Kuromon Market
+- **Kyoto (Días 7-10, 4 noches):** Cultura tradicional en 3 días sin repetir (Gion/Nishiki, Arashiyama bamboo, Fushimi Inari), Shinkansen
+- **Tokio (Días 11-17, 6 noches + salida):** Intenso y viral: Doikoku, Megadía, Meiji/Harajuku, landmarks, GTR alquiler, Friki Shopping Day, gacha machines
 
-Si quieres, puedo mover o aligerar algún día (por ejemplo dejar Arashiyama y Kiyomizudera con medio día cada uno y usar la tarde para descansar). Ahora desarrollo cada día como una mini-guía narrativa debajo.
+**Observaciones de ritmo:**
+- ✅ Día 11 (Sáb): Doikoku de noche = descanso de mañana (dormirás en el tren de regreso)
+- ✅ Día 12 (Dom): MEGADÍA brutal pero es sábado = fiesta nocturna garantizada
+- ✅ Día 13 (Lun): Meiji+Harajuku más tranquilo para recuperarse
+- ✅ Día 14 (Mar): Landmarks clásicos + GTR nocturno = balance perfecto
+- ✅ Día 15 (Mié): Compras (ABC Mart) sin prisa
+- ✅ Día 16 (Jue): Friki Shopping Day = último día épico (Nintendo, Sony, arcades, gashapon)
+- ✅ Día 17 (Vie): Vuelo temprano (10:30) = última noche en Tokio relajada
+
+**Presupuesto total por persona:** €1,164
+- Vuelos: €860 (ya pagados)
+- Alojamiento: €304 (ya pagados)
+- **Actividades/comidas: ~€0** (presupuesto flexible según gasto diario)
+
+**Presupuesto estimado actividades diarias:**
+- Osaka: €475–525
+- Kyoto: €193–256 (incluye Shinkansen)
+- Tokio: €408–795 (incluye GTR alquiler, Street Kart, Friki Shopping)
+- **Total estimado actividades: €1,076–1,576** (exceeds initial budget but covers premium experiences)
 
 ---
 
@@ -1101,3 +1120,45 @@ Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
 ✅ **Tokio es caro pero VALE LA PENA.** Fiesta, coches, compras, temples, todo en uno. Es el cierre perfecto.
 
 ---
+
+## 📊 PRESUPUESTO TOTAL JAPÓN (15 días completos)
+
+| Concepto | Presupuesto/Persona |
+|---|---|
+| **Vuelos (ya pagado)** | **€860** |
+| **Alojamiento (ya pagado)** | **€304** |
+| **Osaka (Días 1-6)** | €475–525 |
+| **Kyoto (Días 7-10, incluye Shinkansen)** | €193–256 |
+| **Tokio (Días 11-17, sin alojamiento)** | €408–795 |
+| **TOTAL ACTIVIDADES ESTIMADAS** | **€1,076–1,576** |
+| **TOTAL GENERAL (sin contar vuelos/alojamiento ya pagados)** | **€1,076–1,576** |
+
+**Nota:** El itinerario ya tiene vuelos y alojamiento completamente pagados (€1,164 de presupuesto total). Este presupuesto de actividades es ESTIMADO — podéis gastar menos en compras o más en experiencias premium (Shibuya Street Kart, GTR, gacha machines). El presupuesto es flexible según vuestras prioridades.
+
+---
+
+## 🎯 Highlights principales (Lo que NO os podéis perder)
+
+✅ **Universal Studios con EXPRESS PASS** — €180–230 por persona  
+✅ **Pokémon Center + Den Den Town** — €50–100 por persona (anime shopping día)  
+✅ **Shibuya Street Kart (¥7-10k)** — €50–70 (VIRAL TikTok, mandatory)  
+✅ **Doikoku Parking (22:00-05:00)** — €35–56 (coches tunning underground)  
+✅ **Nissan GTR Alquiler (conducción propia)** — €140–210 (experiencia épica de conducción)  
+✅ **Friki Shopping Day: Nintendo Store + Sony Store + Arcades** — €85–216 (última obsesión friki)  
+✅ **Gacha Machines Night Outing** — €14–28 (bonus after Roppongi)  
+✅ **Kyoto Tradicional (3 días sin repetir)** — €193–256 (cultura balance)  
+
+---
+
+## ✈️ Conclusión
+
+**Viaje PERFECTO para vuestro perfil:** Jóvenes, friki, gamers, amantes de anime y tendencias viral. Hemos eliminado lo "aburrido" (Nara, días genéricos) y reemplazado por experiencias épicas que os encantarán.
+
+**Timeline ideal:**
+- **Osaka:** Introducción joven (Universal, Den Den Town, Shinsekai nightlife)
+- **Kyoto:** Desconexión cultural (3 días distintos, nada repetido, templos icónicos)
+- **Tokio:** CAOS total (Doikoku, megadías, GTR, friki shopping, gacha machines, fiesta)
+
+**Presupuesto:** €1,164 por persona (vuelos + alojamiento ya pagados) + ~€1,100–1,500 en actividades/comidas/compras.
+
+**¿LISTOS? 🚀**
