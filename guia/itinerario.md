@@ -21,6 +21,42 @@
 
 ---
 
+## 💰 Presupuesto
+
+### Tabla de Gastos por Persona
+
+| Concepto          | Costo Total | Costo/Persona |
+|-------------------|-------------|---------------|
+| **Vuelos**        | 860€        | **860€**      |
+| **Hotel Osaka**   | 290,30€     | **48,38€**    |
+| **Hotel Kioto**   | 517,14€     | **86,19€**    |
+| **Hotel Tokio**   | 1017€       | **169,50€**   |
+| **Alojamiento**   | 1824,44€    | **304,07€**   |
+| **TOTAL**         | **2684,44€**| **1164,07€**  |
+
+*Nota: No incluye comidas, transporte local, entradas a museos/templos ni actividades.*
+
+---
+
+## 🏨 Hoteles
+
+### Osaka — Shin Zhai Qiao House
+**Ubicación:** Prefectura de Osaka, Osaka, 1-8-27 Higashishinsaibashi, Chuo Ward, Japón  
+**Precio:** 290,30€ total (48,38€/persona × 6)  
+**Enlace:** [Booking](https://www.booking.com/hotel/jp/xin-zhai-qiao-hausu.es.html?aid=397656&label=duc511jc-10CAEoggI46AdIM1gDaEaIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGoAgG4AsSHtskGwAIB0gIkYjI1ZGNhNWYtY2JhZS00NzU0LTk5NjUtYjJmNDQyMzAxZjgw2AIB4AIB&sid=340cd0147f2000df251ade053c1b552b&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=distance_from_search&srepoch=1764590566&srpvid=c14d54af78f1016b&type=total&ucfs=1&)
+
+### Kioto — Oaks Kyoto Shijo
+**Ubicación:** Kioto, Kioto, Shimogyo-ku Shijo Nishinotouin 59-61, Japón  
+**Precio:** 517,14€ total (86,19€/persona × 6)  
+**Enlace:** [Booking](https://www.booking.com/hotel/jp/oaks-kyoto-shijo.es.html?label=duc511jc-10CAEoggI46AdIM1gDaEaIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGoAgG4AsSHtskGwAIB0gIkYjI1ZGNhNWYtY2JhZS00NzU0LTk5NjUtYjJmNDQyMzAxZjgw2AIB4AIB&sid=340cd0147f2000df251ade053c1b552b&aid=397656&ucfs=1&arphpl=1&dest_id=252727&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=cbf354cd2e0e012d&srepoch=1764590624&from=searchresults)
+
+### Tokio — Villa Roppongi
+**Ubicación:** Prefectura de Tokio, Tokio, ７−１０−１９ Villa Roppongi, Japón  
+**Precio:** 1017€ total (169,50€/persona × 6)  
+**Enlace:** [Booking](https://www.booking.com/hotel/jp/villa-roppongi.es.html?label=duc511jc-10CAEoggI46AdIM1gDaEaIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGoAgG4AsSHtskGwAIB0gIkYjI1ZGNhNWYtY2JhZS00NzU0LTk5NjUtYjJmNDQyMzAxZjgw2AIB4AIB&sid=340cd0147f2000df251ade053c1b552b&aid=397656&ucfs=1&arphpl=1&dest_id=7507794&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=6c8554ea686a003d&srepoch=1764590682&from=searchresults)
+
+---
+
 ## 🚆 Transporte y JR Pass
 
 - **No comprar JR Pass** → más económico usar billetes puntuales + tarjeta IC (Suica/ICOCA).
