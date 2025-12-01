@@ -366,7 +366,7 @@ Kyoto es la capital cultural de Japón. Aquí nos enfocamos en lo **clásico, ze
 
 ---
 
-### Día 6 — Lunes 10 Marzo: Kyoto Tradicional — Gion, Kiyomizudera, Nishiki Market
+### Día 6 — Martes 10 Marzo: Kyoto Tradicional — Gion, Kiyomizudera, Nishiki Market
 
 **Plan:** Día 1 de Kyoto = tradición pura. Templos históricos, geishas en Gion, mercado tradicional y cena en Pontocho.
 
@@ -440,7 +440,7 @@ Restaurantes recomendados (reserva con antelación):
 
 ---
 
-### Día 7 — Martes 11 Marzo: Norte de Kyoto — Arashiyama, Templos Zen, Camino del Filósofo
+### Día 7 — Miércoles 11 Marzo: Norte de Kyoto — Arashiyama, Templos Zen, Camino del Filósofo
 
 **Plan:** Día 2 de Kyoto = naturaleza + templos zen. Bosque de bambú, templos tranquilos, camino filosófico junto al río.
 
@@ -528,7 +528,7 @@ Por la noche, regresa a Gion. Misma atmósfera que Día 6, pero si no lo viste b
 
 ---
 
-### Día 8 — Miércoles 12 Marzo: Sur de Kyoto — Fushimi Inari, Tofuku-ji, Torre de Kyoto
+### Día 8 — Jueves 12 Marzo: Sur de Kyoto — Fushimi Inari, Tofuku-ji, Torre de Kyoto
 
 **Plan:** Día 3 de Kyoto = torii rojo, templos menos conocidos, vistas panorámicas desde la torre.
 
@@ -588,16 +588,66 @@ Cómo llegar: Directamente desde Kyoto Station
 
 ---
 
-## 📊 PRESUPUESTO TOTAL KYOTO (3 días, por persona)
+### Día 9 — Viernes 13 Marzo: Mañana en Kyoto + Salida a Tokio (Shinkansen)
+
+**Plan:** Último día en Kyoto. Mañana tranquila cerca del hotel Kyoto Station, luego Shinkansen a Tokio.
+
+#### 🛕 OPCIONES CERCA DE KYOTO STATION:
+
+**Opción 1: Templo Hongan-ji (Monzeki Palaces)**
+- Ubicación: 5 min caminando desde Kyoto Station
+- Horarios: 08:30–17:00
+- Entrada: Gratis (donativos bienvenidos)
+- **Por qué:** Uno de los templos budistas más importantes de Japón. Arquitectura impresionante, sin el tumulto de otros templos. Perfecto para una mañana relajada.
+
+**Opción 2: Ishiyama Hongan-ji**
+- Ubicación: 10 min en metro desde Kyoto Station
+- Horarios: 09:00–16:00
+- Entrada: Gratis
+- **Por qué:** Templo zen tranquilo, ideal para mediación. Pocas hordas de turistas.
+
+**Opción 3: Centros comerciales Kyoto Station**
+- **Kyoto Station Building** — tiendas, restaurantes, últimas compras
+- **Isetan** — departamento de lujo
+- **The Cube** — tiendas y ropa
+
+#### ☕ CAFÉ/DESAYUNO
+
+Antes de irte, toma un **matcha latte** en algún café de Kyoto Station. Es la forma perfecta de despedirse de Kyoto.
+
+| Horarios Sugeridos |
+|---|
+| 07:30 – Desayuno tranquilo en hotel |
+| 08:30 – Visita rápida a Hongan-ji (~1 hora) |
+| 09:45 – Matcha café / últimas compras |
+| 11:00 – Check-out, equipaje al guardarropa |
+| 11:30 – Comida ligera antes del tren |
+| 13:00 – Tren Shinkansen Hikari → Tokio (reserva asiento) |
+| 15:30 – Llegada Tokio Station |
+| 16:00 – Check-in hotel Tokio |
+| 17:00 – Descanso / exploración zona hotel |
+| 19:00 – Cena en Shinjuku o Ginza |
+
+💰 **Coste (por persona):**
+- Hongan-ji: Gratis (donativo opcional ¥500)
+- Matcha café: ¥800–1,200 (~€5–8)
+- Comida: ¥1,500–2,000 (~€10–14)
+- Shinkansen Hikari (Kyoto → Tokio): ¥13,500–14,500 (~€95–100)
+- **Total: €110–122**
+
+---
+
+## 📊 PRESUPUESTO TOTAL KYOTO (3.5 días, por persona)
 
 | Concepto | Presupuesto |
 |---|---|
 | **Templos (entradas)** | €13–26 |
-| **Comidas (mercado, restaurantes)** | €50–80 |
-| **Transporte (buses, metro, JR)** | €25–35 |
-| **TOTAL KYOTO (sin alojamiento)** | **€88–141** |
+| **Comidas (mercado, restaurantes)** | €55–90 |
+| **Transporte (buses, metro, JR local)** | €30–40 |
+| **Shinkansen a Tokio** | €95–100 |
+| **TOTAL KYOTO (sin alojamiento)** | **€193–256** |
 
-✅ **Kyoto es más barata que Osaka.** Muchos templos acceso gratis/barato, comida tradicional económica.
+✅ **Kyoto es más barata que Osaka, pero el Shinkansen suma.** El viaje vale la pena para ese tren bala de lujo.
 
 ---
 
