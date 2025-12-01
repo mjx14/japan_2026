@@ -126,8 +126,6 @@ Si quieres, puedo mover o aligerar algún día (por ejemplo dejar Arashiyama y K
 
 ## 📍 Día a Día (guía narrativa)
 
-### Día 1 — Miércoles 5 Marzo: Llegada a Osaka — Noche en Dotonbori
-
 ### Día 1 — Miércoles 4 Marzo + Jueves 5 Marzo: Llegada a Osaka (13:00 aprox.)
 
 **Mañana/tarde:** Vuelo desde Bilbao (4 de marzo por la mañana), llegada a Kansai (~13:00 el 5 de marzo). Recoger equipaje, cambiar dinero y tomar el **Nankai Airport Express** (¥3,100) o el **JR Haruka** (¥3,600) directo a Osaka/Namba.
