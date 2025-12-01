@@ -358,31 +358,244 @@ Si os interesa **Demon Slayer** específicamente, comprad en:
 
 ## 🏛️ KYOTO (9–13 Marzo — 4 Noches)
 
-### Día 6 — Lunes 10 Marzo: Kiyomizudera + Gion — Tradición y geishas
+Kyoto es la capital cultural de Japón. Aquí nos enfocamos en lo **clásico, zen y tradicional** — un contraste perfecto después de Osaka. Tres días completos de templos, geishas, mercados y caminatas por callejuelas históricas.
 
-Mañana: Sube a Kiyomizudera y disfruta de las vistas sobre Kyoto. Pasea por las calles de Higashiyama.
+---
 
-Mediodía: Comer en una machiya o en restaurantes tradicionales.
+### Día 6 — Lunes 10 Marzo: Kyoto Tradicional — Gion, Kiyomizudera, Nishiki Market
 
-Atardecer: Paseo por Gion; atento a las geishas al atardecer cerca de Hanamikoji.
+**Plan:** Día 1 de Kyoto = tradición pura. Templos históricos, geishas en Gion, mercado tradicional y cena en Pontocho.
 
-Transporte: Bus 100/206 → Gojo-zaka. Tiempo estimado: 5–7 h.
+#### 🏯 KIYOMIZUDERA (Templo del Agua Pura)
 
-Tips: Lleva una cámara para capturar las callejuelas; a la hora del té, reserva con antelación si quieres una experiencia tradicional.
+Ubicación: Este de Kyoto (Higashiyama Ward)  
+Horarios: 06:00–18:00 (abierto todo el año)  
+Entrada: ¥400 (~€2,80)  
+Cómo llegar: **Bus 100/206** → parada "Kiyomizudera-michi" (10 min caminando desde parada)
 
-Horarios sugeridos:
+**Por qué ir:** El templo más icónico de Kyoto. Terraza de madera suspendida = vistas imposibles de la ciudad. Foto obligatoria.
 
-- 08:00 – Desayuno y salida hacia Kiyomizudera
-- 09:00 – Visita a Kiyomizudera y recorrido por Higashiyama
-- 12:30 – Almuerzo en restaurante tradicional
-- 15:00 – Paseo por Ninenzaka y Sannenzaka
-- 17:30 – Gion y cena
+💰 **Entradas:**
+- Acceso general: ¥400 (taquilla)
+- **NO se venden online** — pagar en taquilla
 
-Transporte paso a paso:
+📱 **Instagram Alert:** La plataforma de madera al atardecer es viral en redes. Llega antes de las 16:00 para luz dorada.
 
-- Desde Kyoto Station: tomar bus 100/206 hasta Gojo-zaka / Kiyomizudera-michi
+#### 🌸 HIGASHIYAMA (Calles históricas)
 
-Coste aproximado del día (por persona): ¥2,500–5,000 (entradas + comidas + transporte)
+Desde Kiyomizudera baja por las calles típicas. Aquí encontrarás:
+- **Ninenzaka y Sannenzaka** — tiendas de souvenirs, té, artesanías
+- **Restaurantes tradicionales** — matcha, dango, yudofu (tofu hervido)
+
+#### 🎭 GION (Distrito de Geishas)
+
+Ubicación: Centro-este de Kyoto  
+Atmosfera: Geishas al atardecer (17:00–18:30), calles de madera roja, izakayas tradicionales  
+Cómo llegar: Metro Kawaramachi + caminar, o bus directo
+
+**Lo especial:** Gion es *la* zona histórica. Por la noche, ves geishas yendo al trabajo (respeta — no fotos sin permiso). Callejuelas perfectas para fotos de Instagram.
+
+#### 🍱 NISHIKI MARKET (Mercado de los 400 años)
+
+Ubicación: Centro de Kyoto  
+Horarios: 10:00–18:00 (algunos cierran lunes)  
+Entrada: Gratis  
+Especialidades: Sushi, uni, pickles, matcha, miso
+
+Cómo llegar: Metro Kawaramachi  
+Tiempo: 1–2 horas navegando
+
+#### 🍴 PONTOCHO (Cena Tradicional)
+
+Pontocho es una *maiko* (calle geisha) paralela a Gion, más tranquila. Aquí cenas viendo el río Kamogawa.
+
+Restaurantes recomendados (reserva con antelación):
+- **Gion Tanto** — kaiseki tradicional (¥8,000–15,000)
+- **Kappa Zushi** — sushi de río (¥5,000–8,000)
+- **Pontocho Kappa Zushi** — experiencia con vistas al río (¥4,000–6,000)
+
+| Horarios Sugeridos |
+|---|
+| 08:30 – Desayuno y salida a Kiyomizudera |
+| 09:30 – Visita Kiyomizudera (entradas taquilla: ¥400) |
+| 11:30 – Paseo por Higashiyama (Ninenzaka, Sannenzaka) |
+| 13:00 – Almuerzo en Higashiyama (matcha + dango) |
+| 14:30 – Nishiki Market (browsing, snacks) |
+| 16:30 – Paseo por Gion (fotos, atmosfera) |
+| 17:30 – Tomar café/té antes de cenar |
+| 19:00 – Cena en Pontocho (reserva recomendada) |
+| 21:00 – Regreso al hotel |
+
+💰 **Coste (por persona):**
+- Kiyomizudera: ¥400 (~€2,80)
+- Almuerzo Higashiyama: ¥2,000–3,000 (~€14–21)
+- Nishiki Market snacks: ¥1,500–2,000 (~€10–14)
+- Cena Pontocho: ¥4,000–6,000 (~€28–42)
+- Transporte (buses): ¥1,000 (~€7)
+- **Total: €62–84**
+
+---
+
+### Día 7 — Martes 11 Marzo: Norte de Kyoto — Arashiyama, Templos Zen, Camino del Filósofo
+
+**Plan:** Día 2 de Kyoto = naturaleza + templos zen. Bosque de bambú, templos tranquilos, camino filosófico junto al río.
+
+#### 🎋 ARASHIYAMA (Bosque de Bambú)
+
+Ubicación: Oeste de Kyoto  
+Horarios: Abierto 24h (mejor 07:00–09:00 antes de turistas)  
+Entrada: Gratis (algunas áreas tienen pequeños templos con entrada ¥400–600)  
+Cómo llegar: **JR Sagano Line → Saga-Arashiyama Station** o Hankyu desde Kawaramachi
+
+**Lo especial:** 10,000 bambúes creando un "túnel verde". Camina lentamente, respira, toma fotos. Es meditativo.
+
+📱 **TikTok Tip:** Llega ANTES de las 08:30. Después = hordes de turistas.
+
+#### 🏯 TENRYU-JI (Templo del Dragón Celestial)
+
+Ubicación: Arashiyama  
+Horarios: 08:30–17:00 (08:20–16:50 en invierno)  
+Entrada: 
+- Jardín solamente: ¥900
+- Jardín + interiores: ¥1,500
+
+**Por qué:** Uno de los 5 Grandes Templos Zen de Kyoto. Jardín hermoso, arquitectura zen pura.
+
+💡 Compra entradas en taquilla o **online en Lawson (7-Eleven)** si quieres evitar colas.
+
+#### 🌲 KINKAKU-JI (Pabellón Dorado)
+
+Ubicación: Norte de Kyoto  
+Horarios: 09:00–17:00  
+Entrada: ¥400 (taquilla solamente)  
+Cómo llegar: Bus 101 desde Kyoto Station (40 min)
+
+**Lo especial:** El templo **más fotografiado de Japón**. Pabellón cubierto en oro reflejado en el agua. Cumple el meme "it's beautiful" de Internet.
+
+⏰ Llega **antes de las 10:00** o después de las 15:00. Mediodía = turistas masivos.
+
+#### 🔘 RYOAN-JI (Templo del Jardín de Piedras)
+
+Ubicación: Noroeste de Kyoto (camino Filosofía)  
+Horarios: 08:00–17:00 (08:00–16:30 en invierno)  
+Entrada: ¥500 (taquilla)  
+Cómo llegar: Bus 59 desde Kinkakuji (~10 min)
+
+**Lo especial:** Jardín zen minimalista de 15 piedras. Meditación en forma de rocas. Es *tranquilo*, contrasta con Kinkakuji.
+
+#### 🚶 PHILOSOPHER'S PATH (Camino del Filósofo)
+
+Ubicación: Este de Kyoto (paralelo al canal Biwa)  
+Horarios: Abierto 24h  
+Entrada: Gratis  
+Tiempo: 2 km caminata (1–2 horas tranquilas)
+
+**Lo especial:** Camino junto a un canal con cerezos. En primavera, los cerezos explotan en flores. Incluso en marzo, es zen.
+
+Templos cercanos (si tienes tiempo):
+- **Ginkaku-ji** (Pabellón de Plata): ¥500, similiar a Kinkakuji pero menos turistas
+- **Nanzen-ji**: ¥600, acueducto icónico
+
+#### 🌃 GION (Noche)
+
+Por la noche, regresa a Gion. Misma atmósfera que Día 6, pero si no lo viste bien, segunda oportunidad.
+
+| Horarios Sugeridos |
+|---|
+| 07:00 – Salida a Arashiyama |
+| 08:00 – Bosque de bambú (fotos antes de multitudes) |
+| 09:30 – Tenryu-ji (entrada ¥900–1,500) |
+| 11:00 – Almuerzo en Arashiyama |
+| 13:00 – Bus a Kinkakuji |
+| 14:00 – Kinkakuji (¥400) |
+| 15:30 – Ryoan-ji (¥500) |
+| 16:30 – Philosopher's Path (camino tranquilo) |
+| 18:00 – Regreso a centro, cena en Gion |
+| 20:00 – Regreso al hotel |
+
+💰 **Coste (por persona):**
+- Tenryu-ji: ¥1,500 (~€10.50)
+- Kinkakuji: ¥400 (~€2,80)
+- Ryoan-ji: ¥500 (~€3,50)
+- Almuerzo: ¥1,500–2,500 (~€10–18)
+- Cena Gion: ¥3,000–5,000 (~€21–35)
+- Transporte (buses): ¥1,500 (~€10.50)
+- **Total: €68–80**
+
+---
+
+### Día 8 — Miércoles 12 Marzo: Sur de Kyoto — Fushimi Inari, Tofuku-ji, Torre de Kyoto
+
+**Plan:** Día 3 de Kyoto = torii rojo, templos menos conocidos, vistas panorámicas desde la torre.
+
+#### 🔴 FUSHIMI INARI TAISHA (Los Torii Rojo)
+
+Ubicación: Sur de Kyoto  
+Horarios: Abierto 24h  
+Entrada: Gratis  
+Cómo llegar: **JR Nara Line → Inari Station** (~30 min desde centro) o Keihan Fushimi-Inari
+
+**Lo especial:** 10,000+ pórticos torii rojos formando "túneles". Es IMPRESIONANTE. Fotos = garantizadas.
+
+⏰ **IMPORTANTE:** Llega **ANTES de las 07:30** si quieres fotos sin gente. Después de las 09:00 = turistas masivos.
+
+📸 Sube 45 min a pie por los túneles. Vistas de Kyoto desde arriba. Trae agua.
+
+#### 🏯 TOFUKU-JI (Templo del Acer Japonés)
+
+Ubicación: Sur-este de Kyoto  
+Horarios: 09:00–16:00 (cerrado lunes)  
+Entrada: ¥600 (taquilla)  
+Cómo llegar: JR Nara Line → Tofukuji Station (10 min caminando)
+
+**Lo especial:** Menos turistas que otros templos. Famoso por el puente "Tsutenkyo" (Puente del Cielo) con vistas de arces. En otoño = espectáculo de colores. En marzo = verde.
+
+#### 🗼 KYOTO TOWER (Torre de Kyoto)
+
+Ubicación: Kyoto Station (centro)  
+Horarios: 08:30–21:00 (última entrada 20:40)  
+Entrada: ¥800 (observatorio)  
+Cómo llegar: Directamente desde Kyoto Station
+
+**Lo especial:** Vistas panorámicas de toda Kyoto. Atardecer = perfecto. Ves el valle rodeado de montañas.
+
+| Horarios Sugeridos |
+|---|
+| 06:30 – Salida temprano a Fushimi Inari |
+| 07:00 – Llegada a Inari Station |
+| 07:30 – Inicio paseo torii (fotos antes de multitudes) |
+| 09:30 – Almuerzo cerca de Inari |
+| 11:00 – JR a Tofukuji |
+| 11:30 – Visita Tofuku-ji (¥600) |
+| 13:30 – Almuerzo tradicional |
+| 15:00 – Kyoto Tower (¥800) |
+| 16:30 – Paseo por Kyoto Station / compras últimas |
+| 18:00 – Cena en zona Station (último día en Kyoto) |
+| 19:30 – Preparar equipaje para Tokio (sale mañana) |
+
+💰 **Coste (por persona):**
+- Fushimi Inari: Gratis
+- Tofuku-ji: ¥600 (~€4,20)
+- Kyoto Tower: ¥800 (~€5,60)
+- Almuerzo: ¥2,000–3,000 (~€14–21)
+- Cena Station: ¥2,000–3,500 (~€14–25)
+- Transporte: ¥1,000 (~€7)
+- **Total: €50–63**
+
+---
+
+## 📊 PRESUPUESTO TOTAL KYOTO (3 días, por persona)
+
+| Concepto | Presupuesto |
+|---|---|
+| **Templos (entradas)** | €13–26 |
+| **Comidas (mercado, restaurantes)** | €50–80 |
+| **Transporte (buses, metro, JR)** | €25–35 |
+| **TOTAL KYOTO (sin alojamiento)** | **€88–141** |
+
+✅ **Kyoto es más barata que Osaka.** Muchos templos acceso gratis/barato, comida tradicional económica.
+
+---
 
 Restaurantes recomendados:
 
