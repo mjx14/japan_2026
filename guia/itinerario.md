@@ -347,16 +347,14 @@ Si os interesa **Demon Slayer** específicamente, comprad en:
 
 | Concepto | Presupuesto |
 |---|---|
-| **Hotel** | €290 (dividido: €48.33 x 6) |
 | **Universal Studios + Express 7** | €280–290 |
 | **Comidas (mix mercado/izakaya)** | €120–150 |
-| **Compras (Den Den Town, Pokémon, misc)** | €100–250 (flexible) |
 | **Transporte local (metro, tren)** | €30–40 |
 | **Entradas (Castillo, Umeda Sky)** | €20 |
 | **Karaoke / ocio nocturno** | €25 (opcional) |
-| **TOTAL OSAKA** | **€855–1,065** |
+| **TOTAL OSAKA (sin alojamiento ni compras)** | **€475–525** |
 
-✅ **Con nuestro presupuesto base (€1,164 por persona para TODO el viaje), Osaka consume ~€900 — muy realista.**
+✅ **Alojamiento ya pagado. Compras: cada uno lo que quiera. Con este presupuesto, cubres lo esencial de Osaka.**
 
 ---
 
