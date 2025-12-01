@@ -91,27 +91,24 @@
 
 ---
 
-## 📅 Índice de Días
+## 📅 Itinerario Completo — FECHAS CORRECTAS
 
-- Día 1: Llegada y Dotonbori (5 Mar)
-
-## 📅 Índice de Días (resumen)
-
-- Día 1: Llegada y Dotonbori (5 Mar)
-- Día 2: Universal Studios Japan (6 Mar)
-- Día 3: Osaka clásico (7 Mar)
-- Día 4: Excursión a Nara (8 Mar)
-- Día 5: Mercado Kuromon + traslado a Kyoto (9 Mar)
-- Día 6: Kiyomizudera + Gion (10 Mar)
-- Día 7: Arashiyama (11 Mar)
-- Día 8: Fushimi Inari + Nishiki Market (12 Mar)
-- Día 9: Kinkakuji + traslado a Tokio (13 Mar)
-- Día 10: Asakusa + Skytree + Akihabara (14 Mar)
-- Día 11: Shibuya + Harajuku + Meiji Jingu + Ueno (15 Mar)
-- Día 12: Excursión a Nikko (16 Mar)
-- Día 13: Ginza + compras + Daikoku + Golden Gai (17 Mar)
-- Día 14: Día libre + fiesta final (18 Mar)
-- Día 15: Vuelo regreso (19 Mar)
+**Día 1 (Miérc 4 Mar):** Vuelo Bilbao → Zürich  
+**Día 2 (Juev 5 Mar):** Zürich → Tokio, vuelo doméstico → Osaka (llegada ~13:00)  
+**Día 3 (Viern 6 Mar):** Universal Studios Japan (Día Completo)  
+**Día 4 (Sáb 7 Mar):** Osaka Otaku (Dotonbori, Shinsekai, Den Den Town)  
+**Día 5 (Dom 8 Mar):** Castillo Osaka + Umeda + Shinsekai (Noche)  
+**Día 6 (Lun 9 Mar):** Kuromon + tendencias TikTok + traslado a Kyoto  
+**Día 7 (Mar 10 Mar):** Kiyomizudera + Gion (Kioto)  
+**Día 8 (Mié 11 Mar):** Arashiyama (Kioto)  
+**Día 9 (Jue 12 Mar):** Fushimi Inari + Nishiki Market (Kioto)  
+**Día 10 (Vie 13 Mar):** Kinkakuji + traslado a Tokio  
+**Día 11 (Sáb 14 Mar):** Asakusa + Skytree + Akihabara  
+**Día 12 (Dom 15 Mar):** Shibuya + Harajuku + Meiji Jingu + Ueno  
+**Día 13 (Lun 16 Mar):** Día libre en Tokio  
+**Día 14 (Mar 17 Mar):** Ginza + compras + experiencias únicas  
+**Día 15 (Mié 18 Mar):** Descanso y últimas compras  
+**Día 16 (Jue 19 Mar):** Vuelo Tokio → Zürich → Bilbao
 
 ---
 
@@ -131,40 +128,235 @@ Si quieres, puedo mover o aligerar algún día (por ejemplo dejar Arashiyama y K
 
 ### Día 1 — Miércoles 5 Marzo: Llegada a Osaka — Noche en Dotonbori
 
-Mañana/tarde: Llegada a Kansai/Tokio según el vuelo y traslado a tu hotel en Osaka. Haz el check-in, deja el equipaje y camina con calma para estirar piernas.
+### Día 1 — Miércoles 4 Marzo + Jueves 5 Marzo: Llegada a Osaka (13:00 aprox.)
 
-Noche: Dotonbori es la bienvenida perfecta: luces, letreros icónicos y comida en la calle. Pasea por el canal, prueba takoyaki y okonomiyaki en puestos locales. Toma fotos en el cartel de Glico y siéntate en una izakaya para una primera cena japonesa.
+**Mañana/tarde:** Vuelo desde Bilbao (4 de marzo por la mañana), llegada a Kansai (~13:00 el 5 de marzo). Recoger equipaje, cambiar dinero y tomar el **Nankai Airport Express** (¥3,100) o el **JR Haruka** (¥3,600) directo a Osaka/Namba.
 
-Transporte: Metro Midosuji Line → Namba. Tiempo estimado: 2–4 h de actividad (dependiendo del jetlag).
+**Check-in en hotel** y descanso ligero si el jetlag aún está presente.
 
-Tips: Prioriza descansar si el vuelo fue largo. Si todavía tienes energía, un paseo corto por Namba es ideal.
+**Noche:** Dotonbori es la bienvenida perfecta — luces, letreros icónicos de neón y comida en la calle. Pasea por el canal, prueba **takoyaki** y **okonomiyaki** en puestos locales. Toma fotos en el cartel de Glico (muy instagrameable, 100% viral). Siéntate en una izakaya para una primera cena japonesa.
 
-Horarios sugeridos (ejemplo):
+📱 **Tips friki:** Dotonbori es trend en TikTok; vas a ver el mismo lugar en videos de otros chavales. Aquí empiezas la colección de fotos.
 
-- 10:30 – Llegada al hotel / consignas (si la hora de llegada lo permite)
-- 12:30 – Almuerzo ligero en Kuromon o alrededores
-- 15:00 – Check-in y descanso breve
-- 18:30 – Paseo por Dotonbori y cena
+| Horarios Sugeridos |
+|---|
+| 13:00 – Llegada a Kansai |
+| 13:30 – Recogida de equipaje + cambio de dinero |
+| 14:30 – Transporte a hotel (~1h) |
+| 15:30 – Check-in y descanso breve |
+| 18:30 – Paseo por Dotonbori y cena |
+| 22:00 – Regreso al hotel |
 
-Transporte paso a paso:
+💰 **Coste (por persona):** ¥2,500–5,000 (transfer + comidas ligeras)
 
-- Desde Kansai Airport: Nankai Airport Express o JR Kansai Airport Rapid → ten en cuenta la diferencia de precio/tiempo
-- Desde la estación de Osaka: Metro Midosuji Line → Namba (1–2 paradas según ubicación del hotel)
+🍜 **Restaurantes recomendados:**
+- **Dotonbori Konamon Museum** — takoyaki premium; buena primera impresión gastronómica.
+- **Mizuno** — okonomiyaki clásico; local con historia desde los 50s.
 
-Coste aproximado del día (por persona): ¥2,500–5,000 (transfer aeropuerto + comidas ligeras)
+🎌 **Alternativa por mal tiempo:** Visitar el **Acuario Kaiyukan** (abierto hasta las 20:00) o centros comerciales climatizados (Namba Parks, Gran Front Osaka).
 
-Restaurantes recomendados:
+---
 
-- Dotonbori Konamon Museum (takoyaki) — experiencia y fotos; buen primer contacto con la comida callejera.
-- Mizuno (okonomiyaki) — local popular, suele tener cola; pedir con calma para compartir.
+### Día 2 — Viernes 6 Marzo: Universal Studios Japan (Día Completo con EXPRESS PASS)
 
-Alternativa por mal tiempo:
+**Plan:** Entrada ANTICIPADA al parque (7:30 si es posible) para maximizar atracciones sin colas. Si contratáis el **EXPRESS PASS**, podéis hacer todas las atracciones premium sin esperar.
 
-- Visitar el acuario Kaiyukan o pasar la tarde en centros comerciales climatizados como Namba Parks.
+#### 🎢 GUÍA DEL EXPRESS PASS — ¿MERECE LA PENA?
 
-Consejos extra:
+| Tipo | Precio | Atracciones | Ideal para |
+|---|---|---|---|
+| **Express 4** | ¥15,000–22,000 (~€110–160) | 4 atracciones populares (sin colas) | Primer viaje, presupuesto ajustado |
+| **Express 7** | ¥25,000–32,000 (~€180–230) | 7 atracciones + shows | Máxima experiencia, sin tiempo perdido |
+| **Sin Express** | ¥9,200–13,500 | Colas de 30min–2h por atracción | Tolerancia al calor y la paciencia |
 
-- Cambia algo de efectivo al llegar, los puestos callejeros y pequeños restaurantes a veces no aceptan tarjeta.
+📌 **Recomendación para vuestro grupo:** Comprad el **Express 7** (~€200 pp). Vosotros sois jóvenes, queréis vibraciones y fotos. Dos horas en colas = tiempo perdido. Con Express hacéis TODO.
+
+🔗 **Reserva aquí:** https://www.usj.co.jp/web/en/tickets
+
+#### 🎪 ATRACCIONES MUST-DO:
+
+| Atracción | Duración | Experiencia |
+|---|---|---|
+| **Harry Potter: Forbidden Journey** | 5 min + 1h cola (sin Express) | Castillo INCREÍBLE. Mejor que la película. |
+| **Super Nintendo World** | 5–15 min | Mario Kart AR = viral TikTok |
+| **Minion Park** | 15 min | Bananas everywhere, muy divertido |
+| **Transformer** | 4 min | Acción pura, simulador brutal |
+| **Jaws** | 8 min | Clásico de acción con agua |
+
+| Horarios Sugeridos |
+|---|
+| 07:00 – Salida del hotel (IMPORTANTE: temprano) |
+| 08:00 – Llegada a USJ, comprar Express Pass en taquilla (si no lo hiciste online) |
+| 08:30 – Entrada al parque |
+| 08:45 – Harry Potter (con Express: directo; sin Express: cola monumental) |
+| 10:30 – Super Nintendo World (AR Mario Kart) |
+| 12:30 – Almuerzo dentro del parque (Three Broomsticks = temático) |
+| 14:00 – Transformer, Minion Park, otros shows |
+| 17:00 – Shows y tiendas para souvenirs |
+| 19:00–20:00 – Regreso a hotel |
+
+💰 **Coste (por persona):**
+- Entrada: ¥9,200–13,500 (~€65–95)
+- Express 7: ¥25,000–32,000 (~€180–230)
+- Comidas dentro: ¥3,000–5,000 (~€20–35)
+- **Total: €265–360 por persona**
+
+🍗 **Comida dentro del parque (oficial):**
+- **Three Broomsticks Butterbeer** — bebida de tema Harry Potter, fotos obligatorias
+- **Mel's Drive-In** — hamburguesas clásicas, rápido y económico
+
+🎬 **Tip viral:** Comprad el **Butterbeer** en Three Broomsticks. Es crema con sabor a caramelo. Todos los instagramers de Japón lo hacen.
+
+---
+
+### Día 3 — Sábado 7 Marzo: Osaka Otaku + Den Den Town + Pokémon Center
+
+**Mañana:** Desayuna ligero en el hotel y dirige hacia **Nipponbashi (Den Den Town)** — el corazón friki de Osaka. Es como Akihabara pero MENOS turístico y más auténtico.
+
+#### 👾 DEN DEN TOWN (Nipponbashi) — TIENDAS MUST-VISIT:
+
+| Tienda | Qué Venden | Por qué ir |
+|---|---|---|
+| **Super Potato** | Consolas retro, juegos clásicos | Coleccionismo vintage; nostalgia garantizada |
+| **Mandarake** | Figuras, manga used, coleccionables | Precios razonables; figuras raras |
+| **Kaiyodo** | Figuras premium, nendoroids | Figura Demon Slayer por aquí (¥8,000–15,000) |
+| **Bandai Official Store** | Oficial Bandai: Gundam, Dragon Ball, Pokémon | Merchandising exclusivo, calidad garantizada |
+| **Arcade Games (Taito Station)** | Máquinas arcade, UFO catchers | Juega por ¥100–200; posible ganar figuras |
+
+📱 **TikTok Moment:** Entráis a Mandarake, encontráis una figura rara (¥2,000), os hacéis un selfie con cara de sorpresa. 100% viral.
+
+#### 🔴 POKÉMON CENTER OSAKA:
+
+Ubicación: **Umeda/HEP Five** (zona Hankyu Kawaramachi) o **Grand Front Osaka** (confirmar actual).
+
+Qué hay:
+- Peluches Pokémon exclusivos de Osaka
+- Tarjetas Pokémon TCG (booster packs, deck boxes)
+- Ropa (camisetas, sudaderas de marca)
+- Café Pokémon en el mismo edificio (postres temáticos)
+
+💰 **Presupuesto orientativo:** €100–250 por persona si queréis merchandising de calidad.
+
+#### ⚫ ALTERNATIVA: DEMON SLAYER (Kimetsu no Yaiba) HUNTING
+
+Si os interesa **Demon Slayer** específicamente, comprad en:
+- **Mandarake** → figuras second-hand
+- **Kaiyodo Nendo Collection** → nendoroids de Tanjiro, Nezuko
+- **Bandai Store** → DVD, manga, merchandising oficial
+
+| Horarios Sugeridos |
+|---|
+| 08:00 – Desayuno y salida hacia Nipponbashi |
+| 08:30 – Llegada a Den Den Town |
+| 09:00 – Super Potato (browsing retro, photos) |
+| 10:30 – Mandarake (caza de figuras) |
+| 12:00 – Almuerzo en Den Den Town (ramen, gyudon) |
+| 13:30 – Kaiyodo + Bandai Store |
+| 15:30 – Traslado a Pokémon Center (Umeda/HEP Five) |
+| 17:00 – Pokémon Center + café |
+| 18:30 – Paseo por Dotonbori de noche (fotos de luces) |
+| 20:00 – Cena en Shinsekai (kushikatsu) |
+| 22:00 – Regreso al hotel |
+
+💰 **Coste (por persona):**
+- Transporte local: ¥500–1,000
+- Compras (opcional, sin límite): €50–300
+- Comidas: ¥2,500–4,000 (~€18–28)
+- **Total actividades: €70–150 (sin compras)**
+
+🍜 **Almuerzo en Den Den Town:**
+- **Ippudo Ramen** — ramen clásico, económico (¥900)
+- **Gyudon Yoshinoya** — arroz con carne, rápido (¥700)
+
+🍢 **Cena Shinsekai:**
+- **Kushikatsu Daruma** — frituras en brocheta; local icónico desde los 20s
+- **Izakaya Torikizoku** — pollo a la brasa; informal y económico
+
+---
+
+### Día 4 — Domingo 8 Marzo: Castillo de Osaka + Umeda Sky Building + Shinsekai Night
+
+**Mañana:** Castillo de Osaka y su parque — buena sesión de fotos con vistas históricas.
+
+**Mediodía:** Almuerzo en **Umeda**; sube al **Umeda Sky Building** para vistas panorámicas de la ciudad (muy Instagram-friendly).
+
+**Atardecer/Noche:** Explora **Shinsekai** — la "Times Square" de Osaka. Luces de neón, tiendas retro, izakayas, karaoke. Ambiente joven y vibrant.
+
+| Horarios Sugeridos |
+|---|
+| 08:30 – Desayuno y salida hacia Castillo |
+| 09:30 – Visita al Castillo (1–2h si entráis) |
+| 12:00 – Almuerzo en Umeda |
+| 13:30 – Umeda Sky Building (entrada ¥1,500; vistas 360°) |
+| 15:30 – Paseo por Namba / compras últimas cosas |
+| 18:00 – Shinsekai: paseo y ambiente |
+| 19:30 – Cena kushikatsu o izakaya |
+| 21:00 – Karaoke (optional pero recomendado) |
+| 23:00 – Regreso al hotel |
+
+💰 **Coste (por persona):**
+- Castillo: ¥1,500 (~€10)
+- Umeda Sky Building: ¥1,500 (~€10)
+- Comidas: ¥3,000–5,000 (~€20–35)
+- Karaoke (2h): ¥3,000–5,000 (~€20–35)
+- **Total: €60–90**
+
+🎤 **Karaoke en Shinseaki:**
+- **Big Echo** — cadena popular, sucursal en Shinseaki
+- Precio: ~¥300–500/persona/hora + bebidas
+
+---
+
+### Día 5 — Lunes 9 Marzo: Kuromon Market + Últimas Compras + Salida a Kyoto
+
+**Mañana:** Paseo por **Kuromon Ichiba** — desayunos de mercado, sushi ultra-fresco, snacks locales. Es la experiencia "Japan real" después de días frikis.
+
+**Mediodía/Tarde:** Últimas compras en **Dotonbori** o regresar a **Den Den Town** si faltó algo.
+
+**Traslado a Kyoto:** Salida tranquila por la tarde (~17:00–18:00) hacia Kyoto. Metro + tren JR Kyoto Line (~90 minutos).
+
+| Horarios Sugeridos |
+|---|
+| 08:00 – Desayuno en Kuromon Ichiba |
+| 09:00 – Paseo por Kuromon (compras, snacks, fotos) |
+| 11:00 – Regreso a hotel / recopilación de compras |
+| 12:30 – Almuerzo en Namba / compras últimas |
+| 15:00 – Regreso al hotel, check-out, organización de equipaje |
+| 17:00 – Traslado a estación (Osaka/Tennoji) |
+| 18:30 – Llegada a Kyoto, check-in nuevo hotel |
+| 20:00 – Cena ligera en Kyoto y descanso |
+
+💰 **Coste (por persona):**
+- Kuromon (desayuno + snacks): ¥2,000–3,000 (~€14–20)
+- Almuerzo: ¥1,500–2,500 (~€10–18)
+- Tren a Kyoto (JR): ¥1,100 (~€8)
+- **Total: €32–46**
+
+🍣 **Kuromon Must-Try:**
+- **Sushi fresco** en los puestecillos (¥5–10/pieza)
+- **Uni (erizo de mar)** — caro pero probad uno (¥500–800 por pieza)
+- **Takoyaki** — de nuevo, para cerrar Osaka con sabor
+
+🍜 **Almuerzo Namba:**
+- **Ramen Yokocho** — callejuela completa de ramen shops
+- **Okonomiyaki** — crepas savory; perfectas antes de viajar
+
+---
+
+## 📊 PRESUPUESTO TOTAL OSAKA (5 días, por persona)
+
+| Concepto | Presupuesto |
+|---|---|
+| **Hotel** | €290 (dividido: €48.33 x 6) |
+| **Universal Studios + Express 7** | €280–290 |
+| **Comidas (mix mercado/izakaya)** | €120–150 |
+| **Compras (Den Den Town, Pokémon, misc)** | €100–250 (flexible) |
+| **Transporte local (metro, tren)** | €30–40 |
+| **Entradas (Castillo, Umeda Sky)** | €20 |
+| **Karaoke / ocio nocturno** | €25 (opcional) |
+| **TOTAL OSAKA** | **€855–1,065** |
+
+✅ **Con nuestro presupuesto base (€1,164 por persona para TODO el viaje), Osaka consume ~€900 — muy realista.**
 
 ---
 
