@@ -9,9 +9,21 @@ Este repositorio documenta el viaje a Japón del 4 al 19 de marzo de 2026, desde
 
 ## Estructura del proyecto
 
-- `guia/itinerario.md`: Guía principal con el itinerario y actividades
-- `resources/images/`: Imágenes representativas de cada actividad y destino
-- `README.md`: Explicación general del viaje y del repositorio
+- `guia/itinerario.md`: Guía principal con el itinerario y actividades (versión texto detallada en Markdown).
+- `resources/images/`: Imágenes representativas de cada actividad y destino.
+- `README.md`: Explicación general del viaje y del repositorio.
+
+## Cómo ver la guía
+
+Tienes dos formas de consultar la guía del viaje:
+
+1. **Versión detallada en Markdown**  
+	Ideal para editar, imprimir o leer con calma.
+	- Archivo: [`guia/itinerario.md`](guia/itinerario.md)
+
+2. **Versión visual en HTML (GitHub Pages)**  
+	Ideal para ver en el móvil o enseñar al grupo, con diseño tipo app y tarjetas por día.
+	- URL pública: <https://mjx14.github.io/japan_2026/guia/index.html>
 
 ## Sobre el viaje
 
