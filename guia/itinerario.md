@@ -95,6 +95,35 @@
   - Shinkansen Kyoto→Tokio: ¥13,320 (asiento reservado)
   - Tarjeta IC (Suica/ICOCA): ¥2,000–3,000 (carga + depósito reutilizable)
 
+### Añadir Suica / tarjeta IC al móvil (iPhone y Android)
+
+Si queréis usar la tarjeta IC sin cargar billetes en cada estación, lo más cómodo es añadir una **Suica** al móvil. Instrucciones prácticas:
+
+iPhone (Apple Wallet)
+- Requisitos: iPhone con NFC (iPhone 8 o posterior recomendado) y iOS actualizado.
+- Pasos:
+  1. Abre la app **Wallet**.
+  2. Pulsa **+** (añadir) → elige **Transit Card** o busca **Suica**.
+  3. Sigue los pasos para crear y recargar una **Suica** con tarjeta bancaria o Apple Pay. También puedes transferir una Suica física a Wallet si la opción está disponible.
+  4. Comprueba saldo desde Wallet; recarga rápida dentro de la app.
+- Notas:
+  - Si no ves la opción Suica, cambia temporalmente la región de tu Apple ID/ dispositivo a **Japón** o instala la app **Mobile Suica** (requiere registro). Tras añadir la tarjeta puedes volver a tu región habitual.
+  - Para Apple Watch, añade la tarjeta desde la app Watch → Wallet & Apple Pay.
+
+Android (Google Pay / Mobile Suica)
+- Requisitos: Android con NFC y Google Play Services actualizado; algunos dispositivos requieren compatibilidad con HCE.
+- Opciones:
+  - **Google Pay (si soporta transit cards en tu dispositivo):** Abre Google Pay → Añadir → Pago/Transit → buscar **Suica** o tarjeta IC y seguir instrucciones para crear/recargar.
+  - **Mobile Suica (JR East):** Instala la app **Mobile Suica** (disponible en Google Play en Japón). Permite crear, recargar y gestionar Suica; suele requerir registro y número de tarjeta.
+- Notas:
+  - Si la app no aparece en tu Play Store fuera de Japón, puedes cambiar temporalmente tu país de Google Play o descargar el APK desde fuente oficial (proceded con precaución).
+  - En Osaka es común usar **ICOCA**; verifica compatibilidad en Google Pay o apps locales.
+
+Consejos prácticos
+- Recarga recomendada al inicio: ¥2,000–3,000 para cubrir días de transporte y pequeñas compras.
+- Si compartís pagos, cada persona debe tener su propia tarjeta en el móvil.
+- Guardad captura de pantalla del saldo y del número de tarjeta (por si perdéis acceso) y registrad la tarjeta en la app para poder recuperarla.
+
 ---
 
 ## 📅 Itinerario Completo — FECHAS CORRECTAS
