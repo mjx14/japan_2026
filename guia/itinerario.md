@@ -126,24 +126,24 @@ Consejos prácticos
 
 ---
 
-## 📅 Itinerario Completo — FECHAS CORRECTAS
+## 📅 Itinerario Completo — RESUMEN (4–19 marzo 2026)
 
-**Día 1-2 (Miérc 4 Mar - Juev 5 Mar):** Vuelo Bilbao → Zürich → Tokio; vuelo doméstico → Osaka (llegada ~13:00); **Dotonbori** para cenar  
-**Día 3 (Viern 6 Mar):** **Universal Studios Japan** con EXPRESS PASS (Día Completo)  
-**Día 4 (Sáb 7 Mar):** **Den Den Town + Pokémon Center** + anime shopping (reemplazó Nara)  
-**Día 5 (Dom 8 Mar):** **Castillo Osaka + Umeda Sky Building + Shinsekai** (noche)  
-**Día 6 (Lun 9 Mar):** **Kuromon Market** + compras finales + **Shinkansen a Kyoto**  
-**Día 7 (Mar 10 Mar):** **Kiyomizudera + Gion + Nishiki Market + Pontocho** (cena)  
-**Día 8 (Mié 11 Mar):** **Arashiyama + Tenryu-ji + Kinkakuji + Ryoan-ji + Philosopher's Path**  
-**Día 9 (Jue 12 Mar):** **Fushimi Inari (torii tunnel) + Tofuku-ji + Kyoto Tower**  
-**Día 10 (Vie 13 Mar):** **Hongan-ji** (mañana) + **Shinkansen a Tokio** (tarde)  
-**Día 11 (Sáb 14 Mar):** **Doikoku Parking** (22:00-05:00, coches tunning, TikTok moment)  
-**Día 12 (Dom 15 Mar):** **MEGADÍA:** Asakusa → Akihabara → Ginza → Odaiba → **Shibuya Sky + Shibuya Street Kart** (viral) → **Roppongi fiesta**  
-**Día 13 (Lun 16 Mar):** **Meiji Jingu + Harajuku + Shinjuku Gyoen + Kabukicho + Omoide Yokocho + karaoke**  
-**Día 14 (Mar 17 Mar):** **Tsukiji + Palacio Imperial + Hamarikyu + Tokyo Tower + Ueno + Ameyoko + NISSAN GTR ALQUILER** (tarde/noche)  
-**Día 15 (Mié 18 Mar):** **ABC MART + compras finales**  
-**Día 16 (Jue 19 Mar):** **FRIKI SHOPPING DAY:** Nintendo Store + Sony Store + Arcade Centers + UFO Catcher/Gashapon  
-**Día 17 (Vie 20 Mar):** **Vuelo Tokio → Zürich → Bilbao** (10:30 despegue)
+- **Miér 4 Mar:** Vuelo Bilbao → Zürich → Tokio (noche en vuelo, sin turismo real).  
+- **Jue 5 Mar — Día 1:** Llegada a Osaka (~13:00), traslado al hotel y noche en **Dotonbori** (primer paseo y cena).  
+- **Vie 6 Mar — Día 2:** **Universal Studios Japan** con EXPRESS PASS (día completo de parque).  
+- **Sáb 7 Mar — Día 3:** **Osaka otaku:** Den Den Town (Super Potato, Mandarake, Kaiyodo, Bandai) + **Pokémon Center** + Shinsekai de noche.  
+- **Dom 8 Mar — Día 4:** **Castillo de Osaka + Umeda Sky Building + Shinsekai** (karaoke opcional).  
+- **Lun 9 Mar — Día 5:** **Kuromon Market** + últimas compras en Osaka + tarde friki (Den Den Town / Namba) + **traslado a Kyoto** por la tarde-noche.  
+- **Mar 10 Mar — Día 6:** **Kyoto tradicional:** Kiyomizudera + Higashiyama + Gion + Nishiki Market + cena en Pontocho.  
+- **Mié 11 Mar — Día 7:** **Norte de Kyoto:** Arashiyama (bambú) + Tenryu-ji + Kinkakuji + Ryoan-ji + Philosopher's Path.  
+- **Jue 12 Mar — Día 8:** **Sur de Kyoto:** Fushimi Inari (torii) + Tofuku-ji + Kyoto Tower + última noche en Kyoto.  
+- **Vie 13 Mar — Día 9:** Mañana tranquila (Hongan-ji / Kyoto Station) + **Shinkansen Hikari a Tokio** por la tarde, cena en Shinjuku/Ginza.  
+- **Sáb 14 Mar — Día 10:** Llegada y primer gran día en Tokio: zonas este/oeste (Asakusa, Akihabara, Ginza, Odaiba) + **Shibuya Sky + Shibuya Street Kart** + Roppongi fiesta (adaptado del “Megadía”).  
+- **Dom 15 Mar — Día 11:** **Meiji Jingu + Harajuku + Yoyogi + Shinjuku Gyoen + Kabukicho + Omoide Yokocho + karaoke.**  
+- **Lun 16 Mar — Día 12:** **Landmarks Tokio:** Tsukiji + Palacio Imperial + Hamarikyu + Tokyo Tower + Ueno + Ameyoko + noche con **Nissan GTR** alquiler.  
+- **Mar 17 Mar — Día 13:** **ABC Mart + compras finales + día libre** (Shinjuku/Shibuya, centros comerciales, últimas compras).  
+- **Mié 18 Mar — Día 14:** **Friki Shopping Day en Tokio:** Nintendo Store + Sony Store + arcades + UFO catcher/gashapon + última noche tranquila.  
+- **Jue 19 Mar — Día 15:** **Vuelo Tokio → Zürich → Bilbao** (salida 10:30, llegada noche a Bilbao).
 
 ---
 
