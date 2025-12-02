@@ -1,0 +1,16 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradD12" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c2c2c;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3a3a3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadowD12">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="800" height="150" rx="10" ry="10" fill="url(#gradD12)" filter="url(#shadowD12)"/>
+  <line x1="40" y1="25" x2="760" y2="25" stroke="#8b0000" stroke-width="1.5" opacity="0.5"/>
+  <text x="400" y="85" font-family="'Roboto', 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.3">🌸 Día 12 — Meiji + Harajuku + Shinjuku</text>
+  <line x1="40" y1="130" x2="760" y2="130" stroke="#8b0000" stroke-width="1.5" opacity="0.5"/>
+</svg>

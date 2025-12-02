@@ -4,6 +4,8 @@
 
 ## ✈️ Fechas de Vuelo Claves
 
+<img src="../resources/images/banner-fechas-vuelos.svg" alt="Fechas de Vuelo" width="800" />
+
 - **Salida:** 4 Mar 2026 — Bilbao 09:25 → Escala Zürich 13:00 → Tokio (llegada 5 Mar 10:15 hora local)
 - **Vuelo doméstico:** 5 Mar — Tokio → Osaka (≈1 h) con llegada a Osaka ≈ 13:00
 - **Regreso:** 19 Mar 2026 — Tokio 10:30 → Zürich → Bilbao (llegada 23:30)
@@ -11,6 +13,8 @@
 ---
 
 ## 🏨 Resumen de Estancia
+
+<img src="../resources/images/banner-resumen-estancia.svg" alt="Resumen de Estancia" width="800" />
 
 | Ciudad    | Fechas         | Noches | Hotel + Zona recomendada                               |
 | --------- | -------------- | ------ | ------------------------------------------------------ |
@@ -22,6 +26,8 @@
 ---
 
 ## 💰 Presupuesto
+
+<img src="../resources/images/banner-presupuesto.svg" alt="Presupuesto" width="800" />
 
 ### Tabla de Gastos por Persona
 
@@ -45,6 +51,8 @@
 ---
 
 ## 🏨 Hoteles
+
+<img src="../resources/images/banner-hoteles.svg" alt="Hoteles" width="800" />
 
 ### Osaka — Shin Zhai Qiao House
 **Ubicación:** Prefectura de Osaka, Osaka, 1-8-27 Higashishinsaibashi, Chuo Ward, Japón  
@@ -89,6 +97,8 @@
 
 ## 🚆 Transporte y JR Pass
 
+<img src="../resources/images/banner-transporte-jrpass.svg" alt="Transporte y JR Pass" width="800" />
+
 - **No comprar JR Pass** → más económico usar billetes puntuales + tarjeta IC (Suica/ICOCA).
 - **Costos estimados:**
   - Vuelo doméstico Tokio→Osaka: ¥8,000–15,000
@@ -127,6 +137,8 @@ Consejos prácticos
 ---
 
 ## 📅 Itinerario Completo — RESUMEN (4–19 marzo 2026)
+
+<img src="../resources/images/banner-itinerario-resumen.svg" alt="Itinerario Completo RESUMEN" width="800" />
 
 - **Miér 4 Mar:** Vuelo Bilbao → Zürich → Tokio (noche en vuelo, sin turismo real).  
 - **Jue 5 Mar — Día 1:** Llegada a Osaka (~13:00), traslado al hotel y noche en **Dotonbori** (primer paseo y cena).  
@@ -180,7 +192,11 @@ Consejos prácticos
 
 ## 📍 Día a Día (guía narrativa)
 
+<img src="../resources/images/banner-osaka.svg" alt="OSAKA" width="800" />
+
 ### Día 1 — Miércoles 4 Marzo + Jueves 5 Marzo: Llegada a Osaka (13:00 aprox.)
+
+<img src="../resources/images/banner-dia1.svg" alt="Día 1" width="800" />
 
 <img src="../resources/images/dia1.jpg" alt="Día 1" width="600" />
 
@@ -212,6 +228,8 @@ Consejos prácticos
 ---
 
 ### Día 2 — Viernes 6 Marzo: Universal Studios Japan (Día Completo con EXPRESS PASS)
+
+<img src="../resources/images/banner-dia2.svg" alt="Día 2" width="800" />
 
 <img src="../resources/images/dia2.jpg" alt="Día 2" width="600" />
 
@@ -266,6 +284,8 @@ Consejos prácticos
 ---
 
 ### Día 3 — Sábado 7 Marzo: Osaka Otaku + Den Den Town + Pokémon Center
+
+<img src="../resources/images/banner-dia3.svg" alt="Día 3" width="800" />
 
 <img src="../resources/images/dia3.jpg" alt="Día 3" width="600" />
 
@@ -345,6 +365,8 @@ Consejo friki: Llega entre 18:00 y 18:15 para evitar la cola del after-work y co
 
 ### Día 4 — Domingo 8 Marzo: Castillo de Osaka + Umeda Sky Building + Shinsekai Night
 
+<img src="../resources/images/banner-dia4.svg" alt="Día 4" width="800" />
+
 <img src="../resources/images/dia4.jpg" alt="Día 4" width="600" />
 
 **Mañana:** Castillo de Osaka y su parque — buena sesión de fotos con vistas históricas.
@@ -379,6 +401,8 @@ Consejo friki: Llega entre 18:00 y 18:15 para evitar la cola del after-work y co
 ---
 
 ### Día 5 — Lunes 9 Marzo: Kuromon Market + Últimas Compras + Salida a Kyoto
+
+<img src="../resources/images/banner-dia5.svg" alt="Día 5" width="800" />
 
 <img src="../resources/images/dia5.jpg" alt="Día 5" width="600" />
 
@@ -433,6 +457,8 @@ Consejo friki: Llega entre 18:00 y 18:15 para evitar la cola del after-work y co
 
 ## 🏛️ KYOTO (9–13 Marzo — 4 Noches)
 
+<img src="../resources/images/banner-kyoto.svg" alt="KYOTO" width="800" />
+
 Kyoto es la capital cultural de Japón. Aquí nos enfocamos en lo **clásico, zen y tradicional** — un contraste perfecto después de Osaka. Tres días completos de templos, geishas, mercados y caminatas por callejuelas históricas.
 
 ### 🗺️ Mapa Interactivo de Kyoto
@@ -442,6 +468,8 @@ Kyoto es la capital cultural de Japón. Aquí nos enfocamos en lo **clásico, ze
 ---
 
 ### Día 6 — Martes 10 Marzo: Kyoto Tradicional — Gion, Kiyomizudera, Nishiki Market
+
+<img src="../resources/images/banner-dia6.svg" alt="Día 6" width="800" />
 
 <img src="../resources/images/dia6.jpg" alt="Día 6" width="600" />
 
@@ -518,6 +546,8 @@ Restaurantes recomendados (reserva con antelación):
 ---
 
 ### Día 7 — Miércoles 11 Marzo: Norte de Kyoto — Arashiyama, Templos Zen, Camino del Filósofo
+
+<img src="../resources/images/banner-dia7.svg" alt="Día 7" width="800" />
 
 <img src="../resources/images/dia7.jpg" alt="Día 7" width="600" />
 
@@ -609,6 +639,8 @@ Por la noche, regresa a Gion. Misma atmósfera que Día 6, pero si no lo viste b
 
 ### Día 8 — Jueves 12 Marzo: Sur de Kyoto — Fushimi Inari, Tofuku-ji, Torre de Kyoto
 
+<img src="../resources/images/banner-dia8.svg" alt="Día 8" width="800" />
+
 <img src="../resources/images/dia8.jpg" alt="Día 8" width="600" />
 
 **Plan:** Día 3 de Kyoto = torii rojo, templos menos conocidos, vistas panorámicas desde la torre.
@@ -670,6 +702,8 @@ Cómo llegar: Directamente desde Kyoto Station
 ---
 
 ### Día 9 — Viernes 13 Marzo: Mañana en Kyoto + Salida a Tokio (Shinkansen)
+
+<img src="../resources/images/banner-dia9.svg" alt="Día 9" width="800" />
 
 <img src="../resources/images/dia9.jpg" alt="Día 9" width="600" />
 
@@ -751,11 +785,15 @@ Consejos extra:
 
 ## 🗾 TOKIO (13–19 Marzo — 6 Noches + 1 Vuelo)
 
+<img src="../resources/images/banner-tokio.svg" alt="TOKIO" width="800" />
+
 Tokio = caos, energía, modernidad y friki heaven. Arcade games, tiendas de ropa, barrios cyberpunk, coches tunning y fiesta. Esto es lo nuestro.
 
 ---
 
 ### Día 10 — Viernes 13 Marzo: Llegada a Tokio + Doikoku Parking (Coches Tunning)
+
+<img src="../resources/images/banner-dia10.svg" alt="Día 10" width="800" />
 
 <img src="../resources/images/dia10.jpg" alt="Día 10" width="600" />
 
@@ -793,6 +831,8 @@ Entrada: Gratis (bebidas en el bar, opcional)
 ---
 
 ### Día 11 — Sábado 14 Marzo: MEGADÍA Tokio (Este + Oeste + Fiesta)
+
+<img src="../resources/images/banner-dia11.svg" alt="Día 11" width="800" />
 
 <img src="../resources/images/dia11.jpg" alt="Día 11" width="600" />
 
@@ -844,6 +884,8 @@ Entrada: Gratis (bebidas en el bar, opcional)
 ---
 
 ### Día 12 — Domingo 15 Marzo: MEIJI + HARAJUKU + SHINJUKU + KABUKICHO
+
+<img src="../resources/images/banner-dia12.svg" alt="Día 12" width="800" />
 
 <img src="../resources/images/dia12.jpg" alt="Día 12" width="600" />
 
@@ -919,6 +961,8 @@ Entrada: ¥500
 ---
 
 ### Día 13 — Lunes 16 Marzo: PALACIO IMPERIAL + TSUKIJI + UENO + TOKYO TOWER + SKYTREE
+
+<img src="../resources/images/banner-dia13.svg" alt="Día 13" width="800" />
 
 <img src="../resources/images/dia13.jpg" alt="Día 13" width="600" />
 
@@ -1027,6 +1071,8 @@ Entrada: ¥2,100 (observatorio principal)
 
 ### Día 14 — Martes 17 Marzo: ABC MART + COMPRAS FINALES + TIEMPO LIBRE
 
+<img src="../resources/images/banner-dia14.svg" alt="Día 14" width="800" />
+
 <img src="../resources/images/dia14.jpg" alt="Día 14" width="600" />
 
 **Plan:** Día libre para compras (ABC Mart, ropa, souvenirs) y descanso.
@@ -1067,6 +1113,8 @@ Horarios: 11:00–21:00 (típicamente)
 ---
 
 ### 📱 Día 15 — Miércoles 18 Marzo: FRIKI SHOPPING DAY
+
+<img src="../resources/images/banner-dia15.svg" alt="Día 15" width="800" />
 
 <img src="../resources/images/dia15.jpg" alt="Día 15" width="600" />
 
@@ -1160,6 +1208,9 @@ Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
 
 ### Día 16 — Jueves 19 Marzo: VUELO REGRESO A BILBAO
 
+<img src="../resources/images/banner-dia16.svg" alt="Día 16" width="800" />
+
+<img src="../resources/images/dia16.jpg" alt="Día 16" width="600" />
 
 | Horarios Sugeridos |
 |---|
