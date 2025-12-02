@@ -41,12 +41,6 @@
       .app-shell {
         grid-template-columns: 1fr;
       }
-
-      .sidebar {
-        position: sticky;
-        top: 0;
-        z-index: 50;
-      }
     }
 
     @media (max-width: 640px) {
@@ -64,6 +58,18 @@
       color: #fff;
       padding: 1rem 0.75rem 1.5rem;
       box-shadow: var(--shadow-strong);
+    }
+
+    @media (min-width: 901px) {
+      .sidebar {
+        position: sticky;
+        top: 0;
+        height: 100vh;
+      }
+
+      .nav-list {
+        max-height: calc(100vh - 210px);
+      }
     }
 
     .logo {
@@ -130,7 +136,6 @@
     .nav-list {
       list-style: none;
       padding: 0.25rem 0.25rem 0.75rem;
-      max-height: calc(100vh - 210px);
       overflow-y: auto;
     }
 
