@@ -49,6 +49,16 @@
       }
     }
 
+    @media (max-width: 640px) {
+      body {
+        font-size: 15px;
+      }
+
+      .app-shell {
+        display: block;
+      }
+    }
+
     .sidebar {
       background: #212121;
       color: #fff;
@@ -187,6 +197,12 @@
       }
     }
 
+    @media (max-width: 640px) {
+      main {
+        padding: 1rem 0.8rem 2rem;
+      }
+    }
+
     .hero-card {
       background: linear-gradient(135deg, #1a237e, #4a148c);
       color: #fff;
@@ -260,8 +276,21 @@
     }
 
     @media (max-width: 600px) {
+      .hero-card {
+        padding: 1.1rem 1.1rem;
+      }
+
+      .hero-title {
+        font-size: 1.3rem;
+      }
+
+      .hero-subtitle {
+        font-size: 0.85rem;
+      }
+
       .hero-counter {
         align-items: flex-start;
+        font-size: 0.78rem;
       }
     }
 
@@ -286,6 +315,14 @@
       margin-bottom: 0.75rem;
     }
 
+    @media (max-width: 640px) {
+      .section-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.2rem;
+      }
+    }
+
     .section-title {
       font-size: 1.05rem;
       font-weight: 500;
@@ -308,7 +345,7 @@
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 960px) {
       .grid-cols-2 {
         grid-template-columns: minmax(0, 1fr);
       }
