@@ -182,6 +182,8 @@ Consejos prácticos
 
 ### Día 1 — Miércoles 4 Marzo + Jueves 5 Marzo: Llegada a Osaka (13:00 aprox.)
 
+<img src="../resources/images/dia1.jpg" alt="Día 1" width="600" />
+
 **Mañana/tarde:** Vuelo desde Bilbao (4 de marzo por la mañana), llegada a Kansai (~13:00 el 5 de marzo). Recoger equipaje, cambiar dinero y tomar el **Nankai Airport Express** (¥3,100) o el **JR Haruka** (¥3,600) directo a Osaka/Namba.
 
 **Check-in en hotel** y descanso ligero si el jetlag aún está presente.
@@ -210,6 +212,8 @@ Consejos prácticos
 ---
 
 ### Día 2 — Viernes 6 Marzo: Universal Studios Japan (Día Completo con EXPRESS PASS)
+
+<img src="../resources/images/dia2.jpg" alt="Día 2" width="600" />
 
 **Plan:** Entrada ANTICIPADA al parque (7:30 si es posible) para maximizar atracciones sin colas. Si contratáis el **EXPRESS PASS**, podéis hacer todas las atracciones premium sin esperar.
 
@@ -262,6 +266,8 @@ Consejos prácticos
 ---
 
 ### Día 3 — Sábado 7 Marzo: Osaka Otaku + Den Den Town + Pokémon Center
+
+<img src="../resources/images/dia3.jpg" alt="Día 3" width="600" />
 
 **Mañana:** Desayuna ligero en el hotel y dirige hacia **Nipponbashi (Den Den Town)** — el corazón friki de Osaka. Es como Akihabara pero MENOS turístico y más auténtico.
 
@@ -339,6 +345,8 @@ Consejo friki: Llega entre 18:00 y 18:15 para evitar la cola del after-work y co
 
 ### Día 4 — Domingo 8 Marzo: Castillo de Osaka + Umeda Sky Building + Shinsekai Night
 
+<img src="../resources/images/dia4.jpg" alt="Día 4" width="600" />
+
 **Mañana:** Castillo de Osaka y su parque — buena sesión de fotos con vistas históricas.
 
 **Mediodía:** Almuerzo en **Umeda**; sube al **Umeda Sky Building** para vistas panorámicas de la ciudad (muy Instagram-friendly).
@@ -371,6 +379,8 @@ Consejo friki: Llega entre 18:00 y 18:15 para evitar la cola del after-work y co
 ---
 
 ### Día 5 — Lunes 9 Marzo: Kuromon Market + Últimas Compras + Salida a Kyoto
+
+<img src="../resources/images/dia5.jpg" alt="Día 5" width="600" />
 
 **Mañana:** Paseo por **Kuromon Ichiba** — desayunos de mercado, sushi ultra-fresco, snacks locales. Es la experiencia "Japan real" después de días frikis.
 
@@ -432,6 +442,8 @@ Kyoto es la capital cultural de Japón. Aquí nos enfocamos en lo **clásico, ze
 ---
 
 ### Día 6 — Martes 10 Marzo: Kyoto Tradicional — Gion, Kiyomizudera, Nishiki Market
+
+<img src="../resources/images/dia6.jpg" alt="Día 6" width="600" />
 
 **Plan:** Día 1 de Kyoto = tradición pura. Templos históricos, geishas en Gion, mercado tradicional y cena en Pontocho.
 
@@ -506,6 +518,8 @@ Restaurantes recomendados (reserva con antelación):
 ---
 
 ### Día 7 — Miércoles 11 Marzo: Norte de Kyoto — Arashiyama, Templos Zen, Camino del Filósofo
+
+<img src="../resources/images/dia7.jpg" alt="Día 7" width="600" />
 
 **Plan:** Día 2 de Kyoto = naturaleza + templos zen. Bosque de bambú, templos tranquilos, camino filosófico junto al río.
 
@@ -595,6 +609,8 @@ Por la noche, regresa a Gion. Misma atmósfera que Día 6, pero si no lo viste b
 
 ### Día 8 — Jueves 12 Marzo: Sur de Kyoto — Fushimi Inari, Tofuku-ji, Torre de Kyoto
 
+<img src="../resources/images/dia8.jpg" alt="Día 8" width="600" />
+
 **Plan:** Día 3 de Kyoto = torii rojo, templos menos conocidos, vistas panorámicas desde la torre.
 
 #### 🔴 FUSHIMI INARI TAISHA (Los Torii Rojo)
@@ -654,6 +670,8 @@ Cómo llegar: Directamente desde Kyoto Station
 ---
 
 ### Día 9 — Viernes 13 Marzo: Mañana en Kyoto + Salida a Tokio (Shinkansen)
+
+<img src="../resources/images/dia9.jpg" alt="Día 9" width="600" />
 
 **Plan:** Último día en Kyoto. Mañana tranquila cerca del hotel Kyoto Station, luego Shinkansen a Tokio.
 
@@ -739,6 +757,8 @@ Tokio = caos, energía, modernidad y friki heaven. Arcade games, tiendas de ropa
 
 ### Día 10 — Viernes 13 Marzo: Llegada a Tokio + Doikoku Parking (Coches Tunning)
 
+<img src="../resources/images/dia10.jpg" alt="Día 10" width="600" />
+
 **Plan:** Llegas a Tokio a las 15:30. Check-in rápido. **Viernes por la noche = Doikoku Parking** (es LEGENDARIO en TikTok/YouTube).
 
 #### 🚗 DOIKOKU PARKING (Cultura Tunning Japonesa)
@@ -773,6 +793,8 @@ Entrada: Gratis (bebidas en el bar, opcional)
 ---
 
 ### Día 11 — Sábado 14 Marzo: MEGADÍA Tokio (Este + Oeste + Fiesta)
+
+<img src="../resources/images/dia11.jpg" alt="Día 11" width="600" />
 
 **Plan:** Sábado = la mitad del día turismo, la otra mitad = DESCANSO/DUCHA, y por la noche = ROPPONGI FIESTA.
 
@@ -822,6 +844,8 @@ Entrada: Gratis (bebidas en el bar, opcional)
 ---
 
 ### Día 12 — Domingo 15 Marzo: MEIJI + HARAJUKU + SHINJUKU + KABUKICHO
+
+<img src="../resources/images/dia12.jpg" alt="Día 12" width="600" />
 
 **Plan:** Domingo = barrios clásicos + compras + zona de luces rojas.
 
@@ -895,6 +919,8 @@ Entrada: ¥500
 ---
 
 ### Día 13 — Lunes 16 Marzo: PALACIO IMPERIAL + TSUKIJI + UENO + TOKYO TOWER + SKYTREE
+
+<img src="../resources/images/dia13.jpg" alt="Día 13" width="600" />
 
 **Plan:** Lunes = todos los landmark clásicos. Mañana dedicada a esto, **tarde/noche: NISSAN GTR EXPERIENCE** 🏎️
 
@@ -1001,6 +1027,8 @@ Entrada: ¥2,100 (observatorio principal)
 
 ### Día 14 — Martes 17 Marzo: ABC MART + COMPRAS FINALES + TIEMPO LIBRE
 
+<img src="../resources/images/dia14.jpg" alt="Día 14" width="600" />
+
 **Plan:** Día libre para compras (ABC Mart, ropa, souvenirs) y descanso.
 
 #### 👟 ABC MART
@@ -1039,6 +1067,8 @@ Horarios: 11:00–21:00 (típicamente)
 ---
 
 ### 📱 Día 15 — Miércoles 18 Marzo: FRIKI SHOPPING DAY
+
+<img src="../resources/images/dia15.jpg" alt="Día 15" width="600" />
 
 **Tema:** Tokio es el paraíso del gaming. Hoy es el día para Nintendo, Sony, arcades y máquinas de gacha. Shopping + diversión retro garantizado.
 
@@ -1129,6 +1159,7 @@ Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
 ---
 
 ### Día 16 — Jueves 19 Marzo: VUELO REGRESO A BILBAO
+
 
 | Horarios Sugeridos |
 |---|
