@@ -306,7 +306,8 @@ Si os interesa **Demon Slayer** específicamente, comprad en:
 | 13:30 – Kaiyodo + Bandai Store |
 | 15:30 – Traslado a Pokémon Center (Umeda/HEP Five) |
 | 17:00 – Pokémon Center + café |
-| 18:30 – Paseo por Dotonbori de noche (fotos de luces) |
+| 18:15 – Ghibli Store (Mall PARCO, 6F) |
+| 19:30 – Paseo por Dotonbori de noche (fotos de luces) |
 | 20:00 – Cena en Shinsekai (kushikatsu) |
 | 22:00 – Regreso al hotel |
 
@@ -315,6 +316,16 @@ Si os interesa **Demon Slayer** específicamente, comprad en:
 - Compras (opcional, sin límite): €50–300
 - Comidas: ¥2,500–4,000 (~€18–28)
 - **Total actividades: €70–150 (sin compras)**
+
+### 🏯 GHIBLI STORE OSAKA — PARCO 6ª planta
+
+Ubicación: **Mall PARCO**, 6º piso (sucursal Shinsaibashi/Umeda, muy cerca de los centros comerciales donde están el Pokémon Center y Dotonbori). 
+- **Horario:** 10:00–21:00, abierto todos los días.
+Qué hay:
+  - Merchandising exclusivo y joyas que solo vende Studio Ghibli (peluches, camisetas, artbooks de Totoro, Kiki, Ponyo, Howl).
+  - Zona de fotografía con decorados temáticos para hacer TikToks de películas.
+Consejo friki: Llega entre 18:00 y 18:15 para evitar la cola del after-work y combinarlo con el paseo nocturno por Dotonbori.
+💰 **Presupuesto extra:** ¥2,500–6,000 (~€18–42) según el nivel de coleccionismo.
 
 🍜 **Almuerzo en Den Den Town:**
 - **Ippudo Ramen** — ramen clásico, económico (¥900)
