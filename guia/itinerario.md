@@ -40,7 +40,7 @@
 | — | — | — | — |
 | **TOTAL GENERAL** | **~3,900–4,400€** | **~1,650–1,900€** | **Variable** |
 
-*Nota: Vuelos y alojamiento ya están pagados (€1,164 por persona). La tabla incluye estimaciones de comidas, transporte local (metro, taxis), entradas a museos/templos, y experiencias premium (Universal EXPRESS PASS, GTR alquiler, Shibuya Street Kart, etc.). Las compras/souvenirs son adicionales según preferencia.*
+*Nota: Vuelos y alojamiento ya están pagados (€1,164 por persona). La tabla incluye estimaciones de comidas, transporte local (metro, taxis), entradas a museos/templos, y experiencias premium (Universal EXPRESS PASS, GTR alquiler, etc.). Las compras/souvenirs son adicionales según preferencia.*
 
 ---
 
@@ -138,7 +138,7 @@ Consejos prácticos
 - **Mié 11 Mar — Día 7:** **Norte de Kyoto:** Arashiyama (bambú) + Tenryu-ji + Kinkakuji + Ryoan-ji + Philosopher's Path.  
 - **Jue 12 Mar — Día 8:** **Sur de Kyoto:** Fushimi Inari (torii) + Tofuku-ji + Kyoto Tower + última noche en Kyoto.  
 - **Vie 13 Mar — Día 9:** Mañana tranquila (Hongan-ji / Kyoto Station) + **Shinkansen Hikari a Tokio** por la tarde, cena en Shinjuku/Ginza.  
-- **Sáb 14 Mar — Día 10:** Llegada y primer gran día en Tokio: zonas este/oeste (Asakusa, Akihabara, Ginza, Odaiba) + **Shibuya Sky + Shibuya Street Kart** + Roppongi fiesta (adaptado del “Megadía”).  
+- **Sáb 14 Mar — Día 10:** Llegada y primer gran día en Tokio: zonas este/oeste (Asakusa, Akihabara, Ginza, Odaiba) + **Shibuya Sky** + Roppongi fiesta (adaptado del “Megadía”).  
 - **Dom 15 Mar — Día 11:** **Meiji Jingu + Harajuku + Yoyogi + Shinjuku Gyoen + Kabukicho + Omoide Yokocho + karaoke.**  
 - **Lun 16 Mar — Día 12:** **Landmarks Tokio:** Tsukiji + Palacio Imperial + Hamarikyu + Tokyo Tower + Ueno + Ameyoko + noche con **Nissan GTR** alquiler.  
 - **Mar 17 Mar — Día 13:** **ABC Mart + compras finales + día libre** (Shinjuku/Shibuya, centros comerciales, últimas compras).  
@@ -173,8 +173,8 @@ Consejos prácticos
 **Presupuesto estimado actividades diarias:**
 - Osaka: €475–525
 - Kyoto: €193–256 (incluye Shinkansen)
-- Tokio: €408–795 (incluye GTR alquiler, Street Kart, Friki Shopping)
-- **Total estimado actividades: €1,076–1,576** (exceeds initial budget but covers premium experiences)
+- Tokio: €359–725 (incluye GTR alquiler y Friki Shopping; sin Street Kart)
+- **Total estimado actividades: €1,027–1,506** (exceeds initial budget pero sin la actividad de karting)
 
 ---
 
@@ -789,7 +789,7 @@ Entrada: Gratis (bebidas en el bar, opcional)
 | 20:00 – Salida a **Shibuya** |
 | 20:15 – Cruce de Shibuya + Estatua Hachiko (fotos noche = brutal) |
 | 20:45 – **Shibuya Sky** (entrada ¥2,000, observatorio al atardecer/noche) |
-| 22:00 – **Shibuya Street Kart** (¥7,000–10,000 por 1h: conduces karts disfrazado de personajes por Tokio) 📸 VIRAL TikTok |
+| 22:00 – Paseo por Shibuya de noche: Shibuya Center-gai, Shibuya 109, callecitas con izakayas y bares pequeños para tomar algo y seguir haciendo fotos. |
 | 23:30 – Traslado a **Roppongi** (15 min metro) |
 | 00:00–03:00 – **ROPPONGI FIESTA:** Discotecas/bares |
 | 03:00–04:00 – **GACHA SHOPS NOCTURNAS:** Antes de irte, pasa por gacha arcades (están abiertas 24h) |
@@ -805,9 +805,8 @@ Entrada: Gratis (bebidas en el bar, opcional)
 - Ginza: ¥1,000–3,000 compras (libre)
 - Odaiba: ¥0 (gratis pasear), teamLab ¥3,200 si entras
 - Shibuya Sky: ¥2,000 (~€14)
-- **Street Kart: ¥7,000–10,000 (~€49–70)** ⭐ OBLIGATORIO
 - Roppongi (bebidas, entrada discoteca): ¥5,000–10,000 (~€35–70)
-- **Total: €112–252** (sin compras Ginza)
+- **Total: €63–145** (sin compras Ginza)
 
 ---
 
@@ -1150,7 +1149,7 @@ Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
 | **Martes (ABC + compras)** | €56–140 |
 | **Miércoles (Friki Shopping Day)** | €85–216 |
 | **Jueves (Aeropuerto + regreso)** | €35–56 |
-| **TOTAL TOKIO (sin alojamiento)** | **€408–795** |
+| **TOTAL TOKIO (sin alojamiento)** | **€359–725** |
 
 ✅ **Tokio es caro pero VALE LA PENA.** Fiesta, coches, compras, temples, todo en uno. Es el cierre perfecto.
 
@@ -1164,11 +1163,11 @@ Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
 | **Alojamiento (ya pagado)** | **€304** |
 | **Osaka (Días 1-6)** | €475–525 |
 | **Kyoto (Días 7-10, incluye Shinkansen)** | €193–256 |
-| **Tokio (Días 11-17, sin alojamiento)** | €408–795 |
-| **TOTAL ACTIVIDADES ESTIMADAS** | **€1,076–1,576** |
-| **TOTAL GENERAL (sin contar vuelos/alojamiento ya pagados)** | **€1,076–1,576** |
+| **Tokio (Días 11-17, sin alojamiento)** | €359–725 |
+| **TOTAL ACTIVIDADES ESTIMADAS** | **€1,027–1,506** |
+| **TOTAL GENERAL (sin contar vuelos/alojamiento ya pagados)** | **€1,027–1,506** |
 
-**Nota:** El itinerario ya tiene vuelos y alojamiento completamente pagados (€1,164 de presupuesto total). Este presupuesto de actividades es ESTIMADO — podéis gastar menos en compras o más en experiencias premium (Shibuya Street Kart, GTR, gacha machines). El presupuesto es flexible según vuestras prioridades.
+**Nota:** El itinerario ya tiene vuelos y alojamiento completamente pagados (€1,164 de presupuesto total). Este presupuesto de actividades es ESTIMADO — podéis gastar menos en compras o más en experiencias premium (GTR, gacha machines, cenas especiales). El presupuesto es flexible según vuestras prioridades.
 
 ---
 
@@ -1176,7 +1175,7 @@ Si después de Roppongi queréis "tirar unos gachapones", hay opciones 24h:
 
 ✅ **Universal Studios con EXPRESS PASS** — €180–230 por persona  
 ✅ **Pokémon Center + Den Den Town** — €50–100 por persona (anime shopping día)  
-✅ **Shibuya Street Kart (¥7-10k)** — €50–70 (VIRAL TikTok, mandatory)  
+<!-- Shibuya Street Kart eliminado del planning a petición del grupo -->
 ✅ **Doikoku Parking (22:00-05:00)** — €35–56 (coches tunning underground)  
 ✅ **Nissan GTR Alquiler (conducción propia)** — €140–210 (experiencia épica de conducción)  
 ✅ **Friki Shopping Day: Nintendo Store + Sony Store + Arcades** — €85–216 (última obsesión friki)  

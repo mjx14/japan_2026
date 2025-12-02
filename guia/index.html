@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guía Japón 2026</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" />
+  <style>
+    :root {
+      --primary: #e53935;
+      --primary-dark: #b71c1c;
+      --accent: #ffca28;
+      --bg: #f5f5f5;
+      --card-bg: #ffffff;
+      --text-main: #212121;
+      --text-muted: #757575;
+      --shadow-soft: 0 4px 10px rgba(0, 0, 0, 0.12);
+      --shadow-strong: 0 10px 25px rgba(0, 0, 0, 0.25);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text-main);
+      line-height: 1.6;
+    }
+
+    .app-shell {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      min-height: 100vh;
+    }
+
+    @media (max-width: 900px) {
+      .app-shell {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+      }
+    }
+
+    .sidebar {
+      background: #212121;
+      color: #fff;
+      padding: 1rem 0.75rem 1.5rem;
+      box-shadow: var(--shadow-strong);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.75rem 1rem 1rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      margin-bottom: 0.5rem;
+    }
+
+    .logo-flag {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: radial-gradient(circle at center, #e53935 40%, #ffffff 42%);
+      box-shadow: 0 0 0 2px #fff;
+    }
+
+    .logo-text-main {
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+    }
+
+    .logo-text-sub {
+      font-size: 0.75rem;
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    .trip-meta {
+      padding: 0.75rem 1rem 0.5rem;
+      font-size: 0.8rem;
+      color: rgba(255, 255, 255, 0.75);
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.15rem 0.55rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      font-size: 0.72rem;
+      margin-top: 0.35rem;
+    }
+
+    .chip-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+
+    .nav-section-title {
+      padding: 0.75rem 1rem 0.25rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: rgba(255, 255, 255, 0.5);
+    }
+
+    .nav-list {
+      list-style: none;
+      padding: 0.25rem 0.25rem 0.75rem;
+      max-height: calc(100vh - 210px);
+      overflow-y: auto;
+    }
+
+    .nav-item {
+      margin: 0.15rem 0;
+    }
+
+    .nav-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding: 0.4rem 0.75rem;
+      margin: 0 0.25rem;
+      border-radius: 999px;
+      text-decoration: none;
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 0.8rem;
+      transition: background 0.15s ease, transform 0.08s ease;
+    }
+
+    .nav-link span {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .nav-link small {
+      font-size: 0.7rem;
+      color: rgba(255, 255, 255, 0.5);
+    }
+
+    .nav-link:hover {
+      background: rgba(255, 255, 255, 0.1);
+      transform: translateY(-1px);
+    }
+
+    .nav-link.active {
+      background: var(--primary);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35);
+    }
+
+    .badge-day {
+      min-width: 32px;
+      height: 20px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    main {
+      padding: 1.5rem 2rem 2.5rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    @media (max-width: 900px) {
+      main {
+        padding: 1.25rem 1.25rem 2.5rem;
+      }
+    }
+
+    .hero-card {
+      background: linear-gradient(135deg, #1a237e, #4a148c);
+      color: #fff;
+      border-radius: 18px;
+      padding: 1.4rem 1.6rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.25rem;
+      align-items: center;
+      box-shadow: var(--shadow-strong);
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-main {
+      flex: 1 1 260px;
+    }
+
+    .hero-title {
+      font-size: 1.6rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: baseline;
+    }
+
+    .hero-title span.small {
+      font-size: 0.95rem;
+      font-weight: 400;
+      opacity: 0.85;
+    }
+
+    .hero-subtitle {
+      font-size: 0.9rem;
+      opacity: 0.8;
+      margin-bottom: 0.75rem;
+    }
+
+    .hero-meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      font-size: 0.8rem;
+    }
+
+    .hero-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.12);
+      font-size: 0.78rem;
+    }
+
+    .hero-pill-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+
+    .hero-counter {
+      flex: 0 0 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.4rem;
+      font-size: 0.8rem;
+    }
+
+    @media (max-width: 600px) {
+      .hero-counter {
+        align-items: flex-start;
+      }
+    }
+
+    .hero-counter-main {
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+
+    .hero-counter small {
+      opacity: 0.75;
+    }
+
+    .section {
+      margin-bottom: 1.75rem;
+    }
+
+    .section-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .section-title {
+      font-size: 1.05rem;
+      font-weight: 500;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #424242;
+    }
+
+    .section-kicker {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .grid {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .grid-cols-2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    @media (max-width: 800px) {
+      .grid-cols-2 {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 14px;
+      padding: 1rem 1.1rem;
+      box-shadow: var(--shadow-soft);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.4rem;
+    }
+
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+
+    .card-subtitle {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.12rem 0.5rem;
+      border-radius: 999px;
+      font-size: 0.72rem;
+    }
+
+    .badge.primary {
+      background: rgba(229, 57, 53, 0.08);
+      color: var(--primary-dark);
+    }
+
+    .badge.success {
+      background: rgba(56, 142, 60, 0.08);
+      color: #2e7d32;
+    }
+
+    .badge.info {
+      background: rgba(30, 136, 229, 0.08);
+      color: #1565c0;
+    }
+
+    .badge.chip {
+      background: rgba(0, 0, 0, 0.04);
+      color: var(--text-muted);
+    }
+
+    .card-body {
+      font-size: 0.86rem;
+      color: #424242;
+    }
+
+    .card-body p + p {
+      margin-top: 0.4rem;
+    }
+
+    .meta-list {
+      list-style: none;
+      margin-top: 0.35rem;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .meta-list li {
+      margin-top: 0.15rem;
+    }
+
+    .highlight {
+      font-weight: 500;
+      color: var(--primary-dark);
+    }
+
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: 0.35rem;
+    }
+
+    .pill {
+      padding: 0.12rem 0.55rem;
+      border-radius: 999px;
+      background: rgba(0, 0, 0, 0.035);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .day-card {
+      scroll-margin-top: 90px;
+    }
+
+    .day-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.5rem;
+      margin-bottom: 0.35rem;
+    }
+
+    .day-title-main {
+      font-size: 1rem;
+      font-weight: 500;
+    }
+
+    .day-title-sub {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .timeline {
+      list-style: none;
+      margin-top: 0.4rem;
+      padding-left: 0.2rem;
+      border-left: 2px solid rgba(0, 0, 0, 0.08);
+    }
+
+    .timeline-item {
+      position: relative;
+      padding-left: 0.9rem;
+      margin-bottom: 0.4rem;
+      font-size: 0.84rem;
+    }
+
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -5px;
+      top: 0.25rem;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--primary);
+      box-shadow: 0 0 0 3px rgba(229, 57, 53, 0.18);
+    }
+
+    .timeline-time {
+      display: inline-block;
+      width: 4.4rem;
+      font-weight: 500;
+      color: #424242;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+      margin-top: 0.35rem;
+      font-size: 0.75rem;
+    }
+
+    .tag {
+      padding: 0.12rem 0.5rem;
+      border-radius: 999px;
+      background: rgba(0, 0, 0, 0.04);
+      color: var(--text-muted);
+    }
+
+    .footer-note {
+      text-align: right;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 1.5rem;
+    }
+
+    a.inline-link {
+      color: #1565c0;
+      text-decoration: none;
+    }
+
+    a.inline-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="logo">
+        <div class="logo-flag"></div>
+        <div>
+          <div class="logo-text-main">Japan 2026</div>
+          <div class="logo-text-sub">Osaka · Kyoto · Tokio</div>
+        </div>
+      </div>
+      <div class="trip-meta">
+        4–19 marzo 2026 · 15 días completos<br />
+        Perfil: grupo joven friki (anime, Pokémon, tuning, TikTok)
+        <div class="chip">
+          <span class="chip-dot"></span>
+          <span>Guía rápida de navegación</span>
+        </div>
+      </div>
+      <div class="nav-section-title">Secciones</div>
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#overview" class="nav-link active"><span>Resumen general</span></a></li>
+        <li class="nav-item"><a href="#logistica" class="nav-link"><span>Vuelos, hoteles y transporte</span></a></li>
+        <li class="nav-item"><a href="#presupuesto" class="nav-link"><span>Presupuesto</span></a></li>
+        <li class="nav-item"><a href="#itinerario" class="nav-link"><span>Itinerario día a día</span></a></li>
+      </ul>
+      <div class="nav-section-title">Días</div>
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#dia1" class="nav-link"><span><span class="badge-day">D1</span> Llegada a Osaka</span><small>5 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia2" class="nav-link"><span><span class="badge-day">D2</span> Universal Studios</span><small>6 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia3" class="nav-link"><span><span class="badge-day">D3</span> Osaka otaku</span><small>7 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia4" class="nav-link"><span><span class="badge-day">D4</span> Castillo + Umeda</span><small>8 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia5" class="nav-link"><span><span class="badge-day">D5</span> Kuromon + Kyoto</span><small>9 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia6" class="nav-link"><span><span class="badge-day">D6</span> Kyoto tradicional</span><small>10 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia8" class="nav-link"><span><span class="badge-day">D8</span> Fushimi Inari</span><small>12 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia9" class="nav-link"><span><span class="badge-day">D9</span> Mañana Kyoto + Tokio</span><small>13 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia10" class="nav-link"><span><span class="badge-day">D10</span> Megadía Tokio</span><small>14 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia12" class="nav-link"><span><span class="badge-day">D12</span> GTR + Landmarks</span><small>16 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia11" class="nav-link"><span><span class="badge-day">D11</span> Meiji + Harajuku</span><small>15 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia13" class="nav-link"><span><span class="badge-day">D13</span> ABC Mart + libre</span><small>17 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia14" class="nav-link"><span><span class="badge-day">D14</span> Día libre compras</span><small>17-18 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia15" class="nav-link"><span><span class="badge-day">D15</span> Friki Shopping Day</span><small>18 marzo</small></a></li>
+        <li class="nav-item"><a href="#dia16" class="nav-link"><span><span class="badge-day">D16</span> Regreso a Bilbao</span><small>19 marzo</small></a></li>
+      </ul>
+    </aside>
+
+    <main>
+      <section id="overview" class="hero-card">
+        <div class="hero-main">
+          <h1 class="hero-title">
+            Guía Japón 2026
+            <span class="small">· Osaka · Kyoto · Tokio</span>
+          </h1>
+          <p class="hero-subtitle">
+            Itinerario optimizado para un grupo joven friki: anime, Pokémon, Demon Slayer, coches tuning, shopping y experiencias virales de TikTok, sin renunciar a los templos y la parte tradicional.
+          </p>
+          <div class="hero-meta-row">
+            <div class="hero-pill"><span class="hero-pill-dot"></span> 15 días completos en Japón</div>
+            <div class="hero-pill"><span class="hero-pill-dot"></span> 5 noches Osaka · 4 Kyoto · 6 Tokio</div>
+            <div class="hero-pill"><span class="hero-pill-dot"></span> Vuelta el 19 de marzo (jueves)</div>
+          </div>
+        </div>
+        <div class="hero-counter">
+          <div class="hero-counter-main">Presupuesto actividades ~ €1.027–1.506</div>
+          <small>Vuelos + hoteles ya pagados: €1.164 por persona</small>
+          <small>Flexibilidad para ajustar gasto diario y compras</small>
+        </div>
+      </section>
+
+      <section id="logistica" class="section">
+        <div class="section-header">
+          <h2 class="section-title">Logística básica</h2>
+          <span class="section-kicker">Vuelos, hoteles y transporte</span>
+        </div>
+        <div class="grid grid-cols-2">
+          <article class="card">
+            <header class="card-header">
+              <div>
+                <h3 class="card-title">Vuelos internacionales</h3>
+                <p class="card-subtitle">Bilbao → Zürich → Tokio · Tokio → Zürich → Bilbao</p>
+              </div>
+              <span class="badge primary">Ya reservado</span>
+            </header>
+            <div class="card-body">
+              <p><span class="highlight">Salida:</span> 4 marzo 2026 — Bilbao 09:25 → Zürich 13:00 → Tokio (llegada 5 marzo 10:15).</p>
+              <p><span class="highlight">Regreso:</span> 19 marzo 2026 — Tokio 10:30 → Zürich → Bilbao (llegada aprox. 23:30).</p>
+              <ul class="meta-list">
+                <li>Duración trayecto ida/vuelta: ~18h con escalas.</li>
+                <li>Consejo: reservar asientos de pasillo/ventanilla para poder dormir mejor.</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="card">
+            <header class="card-header">
+              <div>
+                <h3 class="card-title">Hoteles</h3>
+                <p class="card-subtitle">Osaka · Kyoto · Tokio</p>
+              </div>
+              <span class="badge success">Pagado</span>
+            </header>
+            <div class="card-body">
+              <p>
+                <span class="highlight">Osaka — Shin Zhai Qiao House</span><br />
+                5–9 marzo · Zona Dotonbori/Namba ideal para moverse a pie y vivir la noche de Osaka.
+              </p>
+              <p>
+                <span class="highlight">Kyoto — Oaks Kyoto Shijo</span><br />
+                9–13 marzo · Base perfecta junto a Shijo para llegar rápido a Gion, Nishiki y estación.
+              </p>
+              <p>
+                <span class="highlight">Tokio — Villa Roppongi</span><br />
+                13–19 marzo · Entre Roppongi y Shibuya: rápido para fiesta, Shibuya, Shinjuku y Ginza.
+              </p>
+              <ul class="meta-list">
+                <li>Total alojamiento ya pagado: ~€304 por persona.</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+
+        <article class="card" style="margin-top: 1rem;">
+          <header class="card-header">
+            <div>
+              <h3 class="card-title">Transporte en Japón</h3>
+              <p class="card-subtitle">Sin JR Pass · Suica en el móvil</p>
+            </div>
+            <span class="badge info">Optimizado coste</span>
+          </header>
+          <div class="card-body">
+            <p>
+              No se usa JR Pass: sale más rentable pagar por trayecto y moverse con
+              <span class="highlight">tarjeta IC (Suica/ICOCA)</span> y billetes sueltos de Shinkansen.
+            </p>
+            <div class="pill-row">
+              <span class="pill">Tokio → Osaka: vuelo doméstico (1h)</span>
+              <span class="pill">Kyoto → Tokio: Shinkansen Hikari</span>
+              <span class="pill">Metro + JR local con Suica</span>
+            </div>
+            <ul class="meta-list">
+              <li>Vuelos internos + Shinkansen cubren los tramos largos.</li>
+              <li>Tarjeta Suica/ICOCA para metro, trenes locales y pequeñas compras.</li>
+            </ul>
+          </div>
+        </article>
+      </section>
+
+      <section id="presupuesto" class="section">
+        <div class="section-header">
+          <h2 class="section-title">Presupuesto orientativo</h2>
+          <span class="section-kicker">Por persona</span>
+        </div>
+        <div class="grid grid-cols-2">
+          <article class="card">
+            <header class="card-header">
+              <div>
+                <h3 class="card-title">Bloques principales</h3>
+                <p class="card-subtitle">Lo que ya está pagado y lo variable</p>
+              </div>
+            </header>
+            <div class="card-body">
+              <p><span class="highlight">Fijo:</span> vuelos (€860) + alojamiento (€304) = <strong>€1.164</strong>.</p>
+              <p><span class="highlight">Variable actividades/comidas:</span> ~<strong>€1.027–1.506</strong> según nivel de compras, fiestas y extras.</p>
+              <ul class="meta-list">
+                <li>Osaka: €475–525 · Kyoto: €193–256 · Tokio: €359–725.</li>
+                <li>Compras y souvenirs van aparte (flexibles según cada uno).</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="card">
+            <header class="card-header">
+              <div>
+                <h3 class="card-title">Experiencias clave</h3>
+                <p class="card-subtitle">En qué merece la pena gastar</p>
+              </div>
+            </header>
+            <div class="card-body">
+              <p>
+                Las partidas fuertes de presupuesto vienen de las experiencias premium:
+              </p>
+              <ul class="meta-list">
+                <li><span class="highlight">Universal Studios + Express Pass</span> (Osaka).</li>
+                <li><span class="highlight">Nissan GTR alquiler</span> para conducir de noche por Tokio.</li>
+                <li><span class="highlight">Friki Shopping Day</span>: Nintendo Store, Sony Store, arcades y gashapon.</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+
+        <div class="grid grid-cols-2" style="margin-top: 1rem;">
+          <article class="card">
+            <header class="card-header">
+              <div>
+                <h3 class="card-title">Detalle por ciudad</h3>
+                <p class="card-subtitle">Solo actividades, sin vuelos ni hoteles</p>
+              </div>
+            </header>
+            <div class="card-body">
+              <p><span class="highlight">Osaka:</span> €475–525</p>
+              <ul class="meta-list">
+                <li>Universal Studios + Express Pass.</li>
+                <li>Comidas (mercado, izakayas, Shinsekai) y transporte local.</li>
+              </ul>
+              <p style="margin-top:0.5rem;"><span class="highlight">Kyoto:</span> €193–256</p>
+              <ul class="meta-list">
+                <li>Entradas a templos (Kiyomizudera, Tenryu-ji, Kinkakuji, Ryoan-ji, Tofuku-ji).</li>
+                <li>Comidas en mercado y barrios tradicionales.</li>
+                <li>Incluye Shinkansen Kyoto → Tokio.</li>
+              </ul>
+              <p style="margin-top:0.5rem;"><span class="highlight">Tokio:</span> €359–725</p>
+              <ul class="meta-list">
+                <li>Doikoku Parking, megadía Tokio, Meiji/Harajuku/Shinjuku.</li>
+                <li>Alquiler Nissan GTR, Friki Shopping Day, días libres y aeropuerto.</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="card">
+            <header class="card-header">
+              <div>
+                <h3 class="card-title">Totales estimados</h3>
+                <p class="card-subtitle">Para tener la foto completa</p>
+              </div>
+            </header>
+            <div class="card-body">
+              <p><span class="highlight">Actividades + comidas:</span> ~<strong>€1.027–1.506</strong>.</p>
+              <p><span class="highlight">Total viaje por persona</span> (vuelos + hoteles + actividades):</p>
+              <p style="margin-left:0.8rem; margin-top:0.1rem;"><strong>~€2.191–2.670</strong> aprox.</p>
+              <ul class="meta-list">
+                <li>Parte baja del rango: controlando compras y fiestas.</li>
+                <li>Parte alta: exprimiendo experiencias premium y shopping friki.</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="itinerario" class="section">
+        <div class="section-header">
+          <h2 class="section-title">Itinerario resumido</h2>
+          <span class="section-kicker">Vista rápida día a día</span>
+        </div>
+        <div class="grid grid-cols-2">
+          <article id="dia1" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 1 — Llegada a Osaka</div>
+                <div class="day-title-sub">Jueves 5 marzo · Kansai → Dotonbori</div>
+              </div>
+              <span class="badge primary">Entrada a Japón</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">13:00</span> Llegada a Kansai, equipaje y cambio de dinero.</li>
+                <li class="timeline-item"><span class="timeline-time">14:30</span> Nankai Airport Express / JR Haruka hacia Osaka (Namba/Umeda).</li>
+                <li class="timeline-item"><span class="timeline-time">18:30</span> Paseo nocturno y cena en Dotonbori (primera inmersión en Japón).</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Jet lag friendly</span>
+                <span class="tag">Foodie</span>
+                <span class="tag">Fotos virales</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia2" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 2 — Universal Studios Japan</div>
+                <div class="day-title-sub">Viernes 6 marzo · Día completo de parque</div>
+              </div>
+              <span class="badge info">Parque temático</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">07:00</span> Salida temprana hacia USJ.</li>
+                <li class="timeline-item"><span class="timeline-time">08:30</span> Entrada al parque, Express Pass para exprimir el día.</li>
+                <li class="timeline-item"><span class="timeline-time">10:30</span> Harry Potter, Super Nintendo World, Minions, shows.</li>
+                <li class="timeline-item"><span class="timeline-time">19:00</span> Vuelta al hotel, cena ligera y descanso.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Adrenalina</span>
+                <span class="tag">Mario &amp; Harry Potter</span>
+                <span class="tag">Día intenso</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia3" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 3 — Osaka otaku</div>
+                <div class="day-title-sub">Sábado 7 marzo · Den Den Town + Pokémon Center</div>
+              </div>
+              <span class="badge primary">Friki shopping</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">09:00</span> Den Den Town: Super Potato, Mandarake, Kaiyodo, Bandai.</li>
+                <li class="timeline-item"><span class="timeline-time">15:30</span> Pokémon Center Osaka y café temático.</li>
+                <li class="timeline-item"><span class="timeline-time">20:00</span> Cena en Shinsekai (kushikatsu) y posible karaoke.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Retro gaming</span>
+                <span class="tag">Anime &amp; figuras</span>
+                <span class="tag">Pokémon</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia4" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 4 — Castillo de Osaka &amp; Umeda</div>
+                <div class="day-title-sub">Domingo 8 marzo · Castillo, mirador y Shinsekai</div>
+              </div>
+              <span class="badge info">Osaka vistas</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">09:30</span> Castillo de Osaka y parque para fotos.</li>
+                <li class="timeline-item"><span class="timeline-time">13:30</span> Umeda Sky Building para vistas 360º.</li>
+                <li class="timeline-item"><span class="timeline-time">18:00</span> Tarde-noche en Shinsekai con cena y karaoke opcional.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Mirador</span>
+                <span class="tag">Noche con neones</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia5" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 5 — Kuromon &amp; traslado a Kyoto</div>
+                <div class="day-title-sub">Lunes 9 marzo · Mercado, compras y tren a Kyoto</div>
+              </div>
+              <span class="badge badge chip">Cambio de ciudad</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">08:00</span> Desayuno en Kuromon Ichiba con sushi/snacks.</li>
+                <li class="timeline-item"><span class="timeline-time">12:30</span> Últimas compras en Osaka (Dotonbori / Den Den Town).</li>
+                <li class="timeline-item"><span class="timeline-time">17:00</span> Tren hacia Kyoto y check-in en el nuevo hotel.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Mercado local</span>
+                <span class="tag">Transición Osaka → Kyoto</span>
+              </div>
+            </div>
+          </article>
+
+            <article id="dia6" class="card day-card">
+              <header class="day-header">
+                <div>
+                  <div class="day-title-main">Día 6 — Kyoto tradicional</div>
+                  <div class="day-title-sub">Martes 10 marzo · Kiyomizudera, Gion y Nishiki</div>
+                </div>
+                <span class="badge success">Cultura</span>
+              </header>
+              <div class="card-body">
+                <ul class="timeline">
+                  <li class="timeline-item"><span class="timeline-time">09:30</span> Kiyomizudera y paseo por Higashiyama.</li>
+                  <li class="timeline-item"><span class="timeline-time">14:30</span> Nishiki Market para probar comida local.</li>
+                  <li class="timeline-item"><span class="timeline-time">19:00</span> Cena en Pontocho, posible avistamiento de geishas.</li>
+                </ul>
+                <div class="tag-row">
+                  <span class="tag">Templos icónicos</span>
+                  <span class="tag">Mercado tradicional</span>
+                </div>
+              </div>
+            </article>
+
+          <article id="dia8" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 8 — Fushimi Inari &amp; sur de Kyoto</div>
+                <div class="day-title-sub">Jueves 12 marzo · Torii rojos y Kyoto Tower</div>
+              </div>
+              <span class="badge info">Icono de Japón</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">07:30</span> Subida temprana por los torii de Fushimi Inari.</li>
+                <li class="timeline-item"><span class="timeline-time">11:30</span> Tofuku-ji y alrededores más tranquilos.</li>
+                <li class="timeline-item"><span class="timeline-time">15:00</span> Kyoto Tower y compras finales en la estación.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Fotos brutales</span>
+                <span class="tag">Templos menos masificados</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia9" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 9 — Mañana en Kyoto &amp; Shinkansen a Tokio</div>
+                <div class="day-title-sub">Viernes 13 marzo · Hongan-ji, compras y tren bala</div>
+              </div>
+              <span class="badge badge chip">Transición a Tokio</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">08:30</span> Visita tranquila a Hongan-ji o paseo por Kyoto Station.</li>
+                <li class="timeline-item"><span class="timeline-time">13:00</span> Shinkansen Hikari hacia Tokio (asientos reservados).</li>
+                <li class="timeline-item"><span class="timeline-time">19:00</span> Primera cena en Tokio (Shinjuku o Ginza).</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Tren bala</span>
+                <span class="tag">Cambio de ambiente</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia10" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 10 — Megadía Tokio</div>
+                <div class="day-title-sub">Sábado 14 marzo · Asakusa, Akihabara, Ginza, Odaiba, Shibuya &amp; Roppongi</div>
+              </div>
+              <span class="badge primary">Tokio non-stop</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">09:00</span> Asakusa (Sensoji) y paseo por Nakamise-dori.</li>
+                <li class="timeline-item"><span class="timeline-time">11:15</span> Akihabara para arcades y tiendas tech.</li>
+                <li class="timeline-item"><span class="timeline-time">15:00</span> Ginza + Odaiba (Rainbow Bridge, vistas futuristas).</li>
+                <li class="timeline-item"><span class="timeline-time">20:45</span> Shibuya Sky + paseo nocturno por Shibuya.</li>
+                <li class="timeline-item"><span class="timeline-time">23:30</span> Fiesta en Roppongi y gacha nocturnas.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Ciudad futurista</span>
+                <span class="tag">Noche japonesa</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia11" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 11 — Meiji, Harajuku &amp; Shinjuku</div>
+                <div class="day-title-sub">Domingo 15 marzo · Santuario, parques y Kabukicho</div>
+              </div>
+              <span class="badge success">Tokio clásico</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">08:00</span> Santuario Meiji y paseo por Yoyogi.</li>
+                <li class="timeline-item"><span class="timeline-time">10:00</span> Harajuku (Takeshita Dori) y compras kawaii.</li>
+                <li class="timeline-item"><span class="timeline-time">14:00</span> Shinjuku Gyoen + Kabukicho y Omoide Yokocho por la noche.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Santuario</span>
+                <span class="tag">Barrio rojo</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia12" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 12 — Landmarks + Nissan GTR</div>
+                <div class="day-title-sub">Lunes 16 marzo · Tsukiji, Palacio Imperial, Tokyo Tower, Ueno</div>
+              </div>
+              <span class="badge info">Día icónico</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">08:30</span> Sushi desayuno en Tsukiji.</li>
+                <li class="timeline-item"><span class="timeline-time">11:00</span> Palacio Imperial y jardines + Hamarikyu.</li>
+                <li class="timeline-item"><span class="timeline-time">14:00</span> Tokyo Tower + Ueno &amp; Ameyoko.</li>
+                <li class="timeline-item"><span class="timeline-time">18:30</span> Recogida Nissan GTR y ruta nocturna por Tokio.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Landmarks</span>
+                <span class="tag">Coche deportivo</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia13" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 13 — ABC Mart &amp; día libre</div>
+                <div class="day-title-sub">Martes 17 marzo · Compras de zapatillas y ropa</div>
+              </div>
+              <span class="badge badge chip">Día flexible</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">11:00</span> Visita a ABC Mart (Shinjuku/Shibuya) para sneakers.</li>
+                <li class="timeline-item"><span class="timeline-time">14:00</span> Tiempo libre para centros comerciales o descanso.</li>
+                <li class="timeline-item"><span class="timeline-time">19:00</span> Cena de despedida informal en Tokio.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Sneakers</span>
+                <span class="tag">Ritmo suave</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia14" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 14 — Compras y ajustes finales</div>
+                <div class="day-title-sub">Miércoles 18 marzo · Día muy libre</div>
+              </div>
+              <span class="badge info">Cierre logístico</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">10:00</span> Repaso de compras pendientes (Don Quijote, Uniqlo, etc.).</li>
+                <li class="timeline-item"><span class="timeline-time">16:00</span> Preparar equipaje y dejar todo listo para el vuelo.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Checklist</span>
+                <span class="tag">Maletas listas</span>
+              </div>
+            </div>
+          </article>
+
+          <article id="dia15" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 15 — Friki Shopping Day</div>
+                <div class="day-title-sub">Miércoles 18 marzo · Nintendo, Sony, arcades y gashapon</div>
+              </div>
+              <span class="badge success">Cierre perfecto</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">10:00</span> Nintendo Store en Shinjuku.</li>
+                <li class="timeline-item"><span class="timeline-time">13:15</span> Sony Store en Ginza.</li>
+                <li class="timeline-item"><span class="timeline-time">15:00</span> Arcades retro y UFO catchers en Akihabara.</li>
+                <li class="timeline-item"><span class="timeline-time">18:15</span> Cena y últimas compras frikis.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Gaming</span>
+                <span class="tag">Merch oficial</span>
+                <span class="tag">Últimas fotos</span>
+              </div>
+            </div>
+          </article>
+          <article id="dia16" class="card day-card">
+            <header class="day-header">
+              <div>
+                <div class="day-title-main">Día 16 — Vuelo de regreso</div>
+                <div class="day-title-sub">Jueves 19 marzo · Tokio → Bilbao</div>
+              </div>
+              <span class="badge primary">Despedida</span>
+            </header>
+            <div class="card-body">
+              <ul class="timeline">
+                <li class="timeline-item"><span class="timeline-time">06:00</span> Check-out y traslado al aeropuerto (Narita/Haneda).</li>
+                <li class="timeline-item"><span class="timeline-time">10:30</span> Vuelo Tokio → Zúrich → Bilbao.</li>
+                <li class="timeline-item"><span class="timeline-time">23:30</span> Llegada aproximada a Bilbao.</li>
+              </ul>
+              <div class="tag-row">
+                <span class="tag">Vuelta a casa</span>
+              </div>
+            </div>
+          </article>
+        </div>
+        <p class="footer-note">
+          Esta vista HTML es un resumen visual. El detalle completo (horarios finos, costes por día, alternativas por mal tiempo y recomendaciones de restaurantes) está en
+          <a class="inline-link" href="itinerario.md" target="_blank" rel="noopener noreferrer">guia/itinerario.md</a>.
+        </p>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    // Navegación lateral activa según el scroll
+    const navLinks = document.querySelectorAll('.nav-link[href^="#"]');
+
+    function onScroll() {
+      const fromTop = window.scrollY + 120;
+
+      navLinks.forEach(link => {
+        const section = document.querySelector(link.getAttribute('href'));
+        if (!section) return;
+        if (section.offsetTop <= fromTop && section.offsetTop + section.offsetHeight > fromTop) {
+          link.classList.add('active');
+        } else {
+          link.classList.remove('active');
+        }
+      });
+    }
+
+    window.addEventListener('scroll', onScroll);
+  </script>
+</body>
+</html>
