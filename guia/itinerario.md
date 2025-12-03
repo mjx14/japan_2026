@@ -136,6 +136,18 @@ Consejos prácticos
 
 ---
 
+## 📶 Conectividad móvil — eSIM ilimitada
+
+La mejor forma de mantenernos conectados durante el viaje es usar una **eSIM de eSIMflag**. Nos sale a **35€ por persona** usando el código **`ESIMFLAG25`**, y la tarifa incluye **datos ilimitados sin sorpresas** durante toda la estancia.
+
+- **Dónde comprarla:** desde [eSIMflag](https://www.esimflag.com) seleccionando Japón como destino y introduciendo el código de descuento antes de pagar.
+- **Ventajas:** activación inmediata, sin necesidad de cambiar tarjetas físicas ni esperar a llegar. Soporta múltiples dispositivos (iPhone y Android) y se puede instalar antes de salir.
+- **Recomendado:** cada persona activa su propia eSIM y la usa junto con la tarjeta IC en el móvil para el transporte local.
+
+Más detalles en la sección de conectividad del índice principal para tener un acceso rápido desde la web.
+
+---
+
 ## 📅 Itinerario Completo — RESUMEN (4–19 marzo 2026)
 
 <img src="../resources/images/banner-itinerario-resumen.svg" alt="Itinerario Completo RESUMEN" width="800" />
