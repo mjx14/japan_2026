@@ -1010,6 +1010,13 @@ Horarios: 09:00–23:00
 Entrada: ¥900 (Main Deck)  
 **Lo especial:** Torre icónica. Roja. Vistas de Tokio. Menos turistas que Skytree.
 
+#### 🌸 KIRBY CAFÉ
+
+Ubicación: Oshiage
+Horarios: 10:00 - 22:00
+Precio: ¥2,500 - ¥5,500
+**Lo especial:** destaca por su inmersiva temática del personaje de Nintendo
+
 #### 🌸 PARQUE DE UENO
 
 Ubicación: Centro-norte Tokio  
