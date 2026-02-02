@@ -972,7 +972,7 @@ Entrada: ¥500
 
 ---
 
-### Día 13 — Lunes 16 Marzo: PALACIO IMPERIAL + TSUKIJI + UENO + TOKYO TOWER + SKYTREE
+### Día 13 — Lunes 16 Marzo: PALACIO IMPERIAL + TSUKIJI + UENO + TOKYO TOWER + KIRBY CAFÉ + SKYTREE
 
 <img src="../resources/images/banner-dia13.svg" alt="Día 13" width="800" />
 
